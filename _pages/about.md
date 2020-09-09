@@ -14,12 +14,12 @@ My name is Chen Yu Liu. I am currently a research assistant at National Center f
 
 ### Master Program, National Tsing Hua University, Department of Physics (2018-2020)
 * Machine learning application in quantum many body system:
-  - Propose a new approach to predict Hamiltonian-dependent physical quantities such as eigenvalues and dispersion relation in non-perturbative parameter regime from perturbative regime data whose computational time remain almost constantly with respect to increasing system size. The accuracy of prediction can be affected by several parameters. The potential of this method theoretically should including any calculation of Hamiltonian-dependent physical quantities especially in an extremely large Hilbert space system. 
-#### Teaching assistant of Quantum Mechanics (I), (II) (2019-2020)
+ - Propose a new approach to predict Hamiltonian-dependent physical quantities such as eigenvalues and dispersion relation in non-perturbative parameter regime from perturbative regime data whose computational time remain almost constantly with respect to increasing system size. The accuracy of prediction can be affected by several parameters. The potential of this method theoretically should including any calculation of Hamiltonian-dependent physical quantities especially in an extremely large Hilbert space system. 
+* Teaching assistant of Quantum Mechanics (I), (II) (2019-2020)
 
 ### Research Internship,  ACADEMIA SINICA, Institute of  Atomic and Molecular Science (2018)                                                  		           
 
-#### Effective quantum theory of molecular system research:
+* Effective quantum theory of molecular system research:
 Examine the behavior of an anharmonic coupling model in the strong coupling limit and construct a much simpler effective model.
 
 ### College Student Research Scholarship, National Science Council   (2017-2018)
