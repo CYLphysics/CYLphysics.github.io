@@ -12,10 +12,9 @@ BS in Physics, National Dong Hwa University (2018)
 
 ## ACADEMIC WORK EXPERIENCE AND INTERNSHIP
 
-### National Tsing Hua University (2018-2020)
-#### Department of physics
-#### Master program
-##### Machine learning application in quantum many body system:
+### National Tsing Hua University, Department of Physics (2018-2020)
+###  Master program
+#### Machine learning application in quantum many body system:
 	 Propose a new approach to predict Hamiltonian-dependent physical
 	 quantities such as eigenvalues and dispersion relation in non-perturbative
 	 parameter regime from perturbative regime data whose computational time
