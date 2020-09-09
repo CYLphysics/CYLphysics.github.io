@@ -3,7 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-My name is Chen Yu Liu. I am currently a research assistant at National Center for Theoretical Science. 
+My name is Chen Yu Liu. I am currently a research assistant at [National Center for Theoretical Science, Physics Division](http://phys.cts.nthu.edu.tw/main.php)
+
+
 
 ## Background
 
