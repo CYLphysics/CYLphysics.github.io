@@ -62,21 +62,25 @@ author:
   bio    : "Currently a research assistant at National Center for Theoretical Sciences, Phyiscs Division."
   links:
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-googlescholar"
       url: "https://scholar.google.com/citations?user=tp83gZMAAAAJ&hl=zh-TW&fbclid=IwAR05JyNRCINgYgaSrpXD4VeU523qT8T7d0bI3onrT7DM-GkXv193mFnI95s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CYLphysics"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chen-yu-liu-549289194/"
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-googlescholar"
       url: "https://scholar.google.com/citations?user=tp83gZMAAAAJ&hl=zh-TW&fbclid=IwAR05JyNRCINgYgaSrpXD4VeU523qT8T7d0bI3onrT7DM-GkXv193mFnI95s"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/chen-yu-liu-549289194/"
 header:
   image: /assets/images/header1.jpg
   
