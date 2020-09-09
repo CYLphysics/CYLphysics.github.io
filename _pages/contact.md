@@ -3,7 +3,7 @@ layout: single
 permalink: /contacts/
 title: "Contact"
 header:
-  overlay_image: "/assets/images/header4"
+  overlay_image: /assets/images/header4
   overlay_filter: 0.5
 ---
 
