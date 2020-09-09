@@ -61,30 +61,21 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Currently a research assistant at National Center for Theoretical Sciences, Phyiscs Division."
   links:
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://scholar.google.com/citations?user=tp83gZMAAAAJ&hl=zh-TW&fbclid=IwAR05JyNRCINgYgaSrpXD4VeU523qT8T7d0bI3onrT7DM-GkXv193mFnI95s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/CYLphysics"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=tp83gZMAAAAJ&hl=zh-TW&fbclid=IwAR05JyNRCINgYgaSrpXD4VeU523qT8T7d0bI3onrT7DM-GkXv193mFnI95s"
 
 header:
   image: /assets/images/header1.jpg
