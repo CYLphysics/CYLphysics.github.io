@@ -9,7 +9,7 @@ My name is Chen Yu Liu. I am currently a research assistant at [National Center 
 
 ## Background
 
-* MS in Physics, National Tsing Hua University (2020) \\
+* MS in Physics, National Tsing Hua University (2020) \
 * BS in Physics, National Dong Hwa University (2018)
 
 ## ACADEMIC WORK EXPERIENCE AND INTERNSHIP
