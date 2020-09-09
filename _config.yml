@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Chen Yu Liu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Currently a research assistant at National Center for Theoretical Sciences, Phyiscs Division."
+  bio    : "Currently a research assistant at National Center for Theoretical Sciences, Phyiscs Division. Studying the machine learninig applications in quantum many-body system."
   links:
     - label: "Google Scholar"
       icon: "fab fa-google"
