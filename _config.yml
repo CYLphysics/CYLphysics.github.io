@@ -32,9 +32,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 header:
-  overlay_image: /assets/images/header1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Hi hihi"
+  image: /assets/images/header1.jpg
 
 include:
   - _pages
