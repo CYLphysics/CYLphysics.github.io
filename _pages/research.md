@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /research/
-title: "Research"
+title: ""
 header:
   image: /assets/images/blackholes.png
 ---
