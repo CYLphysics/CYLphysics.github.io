@@ -1,5 +1,5 @@
 ---
-layout: splash #single
+layout: wide #splash #single
 permalink: /research/
 title: ""
 header:
