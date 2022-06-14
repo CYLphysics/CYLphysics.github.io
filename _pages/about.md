@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /about/
-title: "About"
+title: ""
 header:
   image: /assets/images/blackholes.png
 ---
