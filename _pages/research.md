@@ -1,5 +1,6 @@
 ---
-layout: wide #splash #single
+layout: single #splash #single
+classes: wide
 permalink: /research/
 title: ""
 header:
