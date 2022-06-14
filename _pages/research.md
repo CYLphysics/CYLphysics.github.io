@@ -15,7 +15,7 @@ header:
 
 ### ORAL PRESENTATION
 
-* Chen Yu Liu, ML Applications in Quantum Computation, Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021)
+* Chen-Yu Liu, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021)
 
 * Chen-Yu Liu, Daw-Wei Wang, [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing),  Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020)
 
