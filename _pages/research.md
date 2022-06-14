@@ -3,7 +3,7 @@ layout: single
 permalink: /research/
 title: "Research"
 header:
-  image: /assets/images/blackholes.jpg
+  image: /assets/images/blackholes.png
 ---
 
 ### PAPER
