@@ -21,6 +21,7 @@ Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied 
 ### Research Intern, Hon Hai Quantum Computing Research Center (2022)
 
 ### Apprentice Quantum Researcher, Entropica Labs (2021)
+ <img src="/assets/images/entropicalabs.png" width="600px" align="center">
 * Graph information reinforcement learning QAOA project  
   - Propose a Graph info. Reinforcement Learning (GiRL) model that can solve 
 	QAOA problems. Such model can be trained in smaller Hamiltonian instances
