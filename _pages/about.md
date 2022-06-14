@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: "About"
 header:
-  image: /assets/images/blackholes.jpg
+  image: /assets/images/blackholes.png
 ---
 
 Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied Physics, National Taiwan University, and a research intern at Hon Hai Quantum Computing Research Center. My research interests involve developing algorithms for large combinatorial optimization problems by quantum computing, machine learning applications of quantum circuit experiments, and the QUBO perspective of factorization machines. 
