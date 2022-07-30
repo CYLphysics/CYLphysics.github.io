@@ -9,22 +9,22 @@ header:
 
 ### PAPER
 
-* Chen-Yu Liu, Daw-Wei Wang, [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107), Physical Review B 103, 205107 (2021).
-* Chen-Yu Liu, [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993), arXiv preprint, arXiv: 1806.09993 (2018). 
-* Chen-Yu Liu, Da-Shin Lee, Chi-Yong Lin, [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b), Classical and Quantum Gravity 34 (23), 235008 (2017). 
+* ***Chen-Yu Liu***, Daw-Wei Wang, [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107), Physical Review B 103, 205107 (2021).
+* ***Chen-Yu Liu***, [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993), arXiv preprint, arXiv: 1806.09993 (2018). 
+* ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b), Classical and Quantum Gravity 34 (23), 235008 (2017). 
 
 
 ### ORAL PRESENTATION
 
-* Chen-Yu Liu, Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers, NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022) 
+* ***Chen-Yu Liu***, Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers, NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022) 
 
-* Chen-Yu Liu, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021)
+* ***Chen-Yu Liu***, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021)
 
-* Chen-Yu Liu, Daw-Wei Wang, [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing),  Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020)
+* ***Chen-Yu Liu***, Daw-Wei Wang, [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing),  Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020)
 
 ### POSTER PRESENTATION
-* Chen-Yu Liu, Da-Shin Lee, Chi-Yong Lin, [Motion of charged particles around a weakly magnetized rotating charged Black Hole](https://drive.google.com/file/d/1pnik5d7_hk-EuOUy9P3XHIBQd5708r5-/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  National Taiwan University, Taipei, Taiwan. (2018)  
-* Chen-Yu Liu, Da-Shin Lee, Chi-Yong Lin, [Geodesics of charged particles moving around a Kerr-Newman Black Hole](https://drive.google.com/file/d/1qQLwUdslKWgs5CAEMXKBNlGC0h5Yrzp4/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  Tamkang University, Taipei, Taiwan. (2017)                    
+* ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Motion of charged particles around a weakly magnetized rotating charged Black Hole](https://drive.google.com/file/d/1pnik5d7_hk-EuOUy9P3XHIBQd5708r5-/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  National Taiwan University, Taipei, Taiwan. (2018)  
+* ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesics of charged particles moving around a Kerr-Newman Black Hole](https://drive.google.com/file/d/1qQLwUdslKWgs5CAEMXKBNlGC0h5Yrzp4/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  Tamkang University, Taipei, Taiwan. (2017)                    
 
 
 ### ACHIEVEMENT
