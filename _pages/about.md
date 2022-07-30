@@ -19,7 +19,7 @@ Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied 
 ## Experience
 
 ### Coach, NTU-IBM Qiskit Hackathon Taiwan (2022)
-<img src="/assets/images/ntuibm.png" width="200px" align="center">
+<img src="/assets/images/ntuibm.png" width="400px" align="center">
 
 ### Research Intern, Hon Hai Quantum Computing Research Center (2022)
 <img src="/assets/images/hh.png" width="200px" align="center">
