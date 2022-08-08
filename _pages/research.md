@@ -4,7 +4,7 @@ classes: wide
 permalink: /research/
 title: ""
 header:
-  image: /assets/images/blackholes.png
+  image: /assets/images/LSSA.png
 ---
 
 ### PAPER
