@@ -16,6 +16,8 @@ header:
 
 ### ORAL PRESENTATION
 
+* ***Chen-Yu Liu***, Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems, HHQC seminar, Taiwan. (2022)
+
 * ***Chen-Yu Liu***, Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers, NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022) 
 
 * ***Chen-Yu Liu***, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021)
