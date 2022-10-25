@@ -8,6 +8,8 @@ header:
 ---
 
 ### PAPER
+
+* ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh, [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953), arXiv preprint, arXiv: 2210.12953 (2022). 
 * ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283), arXiv preprint, arXiv: 2208.03283 (2022). 
 * ***Chen-Yu Liu***, Daw-Wei Wang, [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107), Physical Review B 103, 205107 (2021).
 * ***Chen-Yu Liu***, [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993), arXiv preprint, arXiv: 1806.09993 (2018). 
