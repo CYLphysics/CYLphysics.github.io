@@ -18,6 +18,8 @@ header:
 
 ### ORAL PRESENTATION
 
+* ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://meetings.aps.org/Meeting/MAR23/Session/S70.4), APS March Meeting, Las Vegas, Nevada, USA. (2023)
+
 * ***Chen-Yu Liu***, Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023)
 
 * ***Chen-Yu Liu***, Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems, HHQC seminar, Taiwan. (2022)
