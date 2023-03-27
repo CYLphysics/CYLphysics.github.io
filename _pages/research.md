@@ -17,6 +17,7 @@ header:
 
 
 ### ORAL PRESENTATION
+* ***Chen-Yu Liu***, [ On the path of using small quantum computers for practical purposes](https://www.phys.ntu.edu.tw/News_Content_n_39710_s_212699.html), CQSE-NCTS seminar, National Taiwan University, Taipei, Taiwan. (2023)
 
 * ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://meetings.aps.org/Meeting/MAR23/Session/S70.4), APS March Meeting, Las Vegas, Nevada, USA. (2023)
 
