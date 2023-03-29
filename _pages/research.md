@@ -17,19 +17,22 @@ header:
 
 
 ### ORAL PRESENTATION
-* ***Chen-Yu Liu***, [ On the path of using small quantum computers for practical purposes](https://www.phys.ntu.edu.tw/News_Content_n_39710_s_212699.html), CQSE-NCTS seminar, National Taiwan University, Taipei, Taiwan. (2023)
 
-* ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://meetings.aps.org/Meeting/MAR23/Session/S70.4), APS March Meeting, Las Vegas, Nevada, USA. (2023)
+* ***Chen-Yu Liu***, On the path of using small quantum computers for solving large-size combinatorial optimization problems, IBM Quantum Network Colloquium. (2023 Mar 29)
 
-* ***Chen-Yu Liu***, Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023)
+* ***Chen-Yu Liu***, [ On the path of using small quantum computers for practical purposes](https://www.phys.ntu.edu.tw/News_Content_n_39710_s_212699.html), CQSE-NCTS seminar, National Taiwan University, Taipei, Taiwan. (2023 Mar 24) 
 
-* ***Chen-Yu Liu***, Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems, HHQC seminar, Taiwan. (2022)
+* ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://meetings.aps.org/Meeting/MAR23/Session/S70.4), APS March Meeting, Las Vegas, Nevada, USA. (2023 Mar 9) 
 
-* ***Chen-Yu Liu***, Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers, NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022) 
+* ***Chen-Yu Liu***, Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023 Jan 17) 
 
-* ***Chen-Yu Liu***, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021)
+* ***Chen-Yu Liu***, Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems, HHQC seminar, Taiwan. (2022 Oct 14) 
 
-* ***Chen-Yu Liu***, Daw-Wei Wang, [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing),  Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020)
+* ***Chen-Yu Liu***, Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers, NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022 Jul 19) 
+
+* ***Chen-Yu Liu***, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021 May 20)
+
+* ***Chen-Yu Liu***, Daw-Wei Wang, [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing),  Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020 Feb 6) 
 
 ### POSTER PRESENTATION
 * Huan-Hsuan Kung, ***Chen-Yu Liu***, Daw-Wei Wang, Yen-Hsiang Lin, Improving characterization accuracy of fluxonium qubit parameters by machine learning, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023)
