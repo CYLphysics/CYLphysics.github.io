@@ -8,7 +8,7 @@ header:
 ---
 
 ### PAPER
-
+* ***Chen-Yu Liu***, [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747), arXiv preprint, arXiv: 2304.13747 (2023)
 * ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh, [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953), arXiv preprint, arXiv: 2210.12953 (2022). 
 * ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283), arXiv preprint, arXiv: 2208.03283 (2022). 
 * ***Chen-Yu Liu***, Daw-Wei Wang, [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107), Physical Review B 103, 205107 (2021).
