@@ -49,4 +49,6 @@ header:
 * Student Paper Award,  Annual Meeting of PSROC 2018 (2018)                 
 * 1st at Project Competition Award, Department of Physics, National Dong Hwa University (2017)  
 * College Student Research Scholarship, National Science Council (2017)  
-* Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)                                       
+* Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
+
+Peace                                    
