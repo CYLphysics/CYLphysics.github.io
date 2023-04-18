@@ -43,7 +43,7 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### ORAL PRESENTATION
 #### 2023
-* On the path of using small quantum computers for solving large-size combinatorial optimization problems   
+* <u>On the path of using small quantum computers for solving large-size combinatorial optimization problems<u>   
 ***Chen-Yu Liu***  
 IBM Quantum Network Colloquium. (2023 Mar 29)
 
