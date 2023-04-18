@@ -12,19 +12,23 @@ Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied 
 
 ## Background
 
-* PhD in Applied Physics, Natinoal Taiwan University (2021-)
+* PhD in Applied Physics, Natinoal Taiwan University (2021-current)
 * MS in Physics, National Tsing Hua University (2018-2020) 
 * BS in Physics, National Dong Hwa University (2014-2018)
 
 ## Experience
 
-### Coach, NTU-IBM Qiskit Hackathon Taiwan (2022)
-<img src="/assets/images/ntuibm.png" width="400px" align="center">
 
-### Research Intern, Hon Hai Quantum Computing Research Center (2022)
+### Research Intern  
+Quantum Computing Research Center, Hon Hai Research Institute (2022-current)  
 <img src="/assets/images/hh.png" width="200px" align="center">
 
-### Apprentice Quantum Researcher, Entropica Labs (2021)
+### Coach  
+NTU-IBM Qiskit Hackathon Taiwan (2022)  
+<img src="/assets/images/ntuibm.png" width="400px" align="center">
+
+### Apprentice Quantum Researcher  
+Entropica Labs (2021)  
  <img src="/assets/images/entropicalabs.png" width="200px" align="center">
 * Graph information reinforcement learning QAOA project  
   - Propose a Graph info. Reinforcement Learning (GiRL) model that can solve 
