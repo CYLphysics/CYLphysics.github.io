@@ -7,28 +7,65 @@ header:
   image: /assets/images/LSSA.png
 ---
 
+
 ### PAPER
-* ***Chen-Yu Liu***, [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747), arXiv preprint, arXiv: 2304.13747 (2023)
-* ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh, [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953), arXiv preprint, arXiv: 2210.12953 (2022). 
-* ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283), arXiv preprint, arXiv: 2208.03283 (2022). 
-* ***Chen-Yu Liu***, Daw-Wei Wang, [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107), Physical Review B 103, 205107 (2021).
-* ***Chen-Yu Liu***, [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993), arXiv preprint, arXiv: 1806.09993 (2018). 
-* ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b), Classical and Quantum Gravity 34 (23), 235008 (2017). 
+
+* [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
+ ***Chen-Yu Liu***, Hsi-Sheng Goan  
+ arXiv preprint, arXiv: 2304.06473 
+ 
+* [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
+ ***Chen-Yu Liu***  
+ arXiv preprint, arXiv: 2304.13747 (2023)
+ 
+* [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
+***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
+arXiv preprint, arXiv: 2210.12953 (2022)
+
+* [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
+ ***Chen-Yu Liu***, Hsi-Sheng Goan  
+arXiv preprint, arXiv: 2208.03283 (2022)
+
+* [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
+***Chen-Yu Liu***, Daw-Wei Wang  
+Physical Review B 103, 205107 (2021)
+
+* [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993)  
+***Chen-Yu Liu***  
+arXiv preprint, arXiv: 1806.09993 (2018)
+
+* [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b)  
+***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin  
+Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### ORAL PRESENTATION
 
-* ***Chen-Yu Liu***, On the path of using small quantum computers for solving large-size combinatorial optimization problems, IBM Quantum Network Colloquium. (2023 Mar 29)
+* <span style="color:blue">On the path of using small quantum computers for solving large-size combinatorial optimization problems</span>   
+***Chen-Yu Liu***  
+IBM Quantum Network Colloquium. (2023 Mar 29)
 
-* ***Chen-Yu Liu***, [ On the path of using small quantum computers for practical purposes](https://www.phys.ntu.edu.tw/News_Content_n_39710_s_212699.html), CQSE-NCTS seminar, National Taiwan University, Taipei, Taiwan. (2023 Mar 24) 
+* [On the path of using small quantum computers for practical purposes](https://www.phys.ntu.edu.tw/News_Content_n_39710_s_212699.html)  
+***Chen-Yu Liu***  
+CQSE-NCTS seminar, National Taiwan University, Taipei, Taiwan. (2023 Mar 24) 
 
-* ***Chen-Yu Liu***, Hsi-Sheng Goan, [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://meetings.aps.org/Meeting/MAR23/Session/S70.4), APS March Meeting, Las Vegas, Nevada, USA. (2023 Mar 9) 
+* [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://meetings.aps.org/Meeting/MAR23/Session/S70.4)  
+***Chen-Yu Liu***, Hsi-Sheng Goan  
+APS March Meeting, Las Vegas, Nevada, USA. (2023 Mar 9)  
 
-* ***Chen-Yu Liu***, Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023 Jan 17) 
+* [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://tps2023.conf.tw/site/order/1463/Oral.aspx?sid=1463&lang=en)  
+***Chen-Yu Liu***  
+Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023 Jan 17) 
 
-* ***Chen-Yu Liu***, Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems, HHQC seminar, Taiwan. (2022 Oct 14) 
+* [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://www.hh-ri.com/2022/10/14/hybrid-gate-based-and-annealing-quantum-computing-for-large-size-ising-problems/)  
+***Chen-Yu Liu***  
+HHQC seminar, Taiwan. (2022 Oct 14) 
 
-* ***Chen-Yu Liu***, Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers, NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022 Jul 19) 
+* Solving Large Quadratic Unconstrained Bianry Optimization Problems by Several Gate-Based Quantum Computers  
+***Chen-Yu Liu***  
+ NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022 Jul 19)
+
+
 
 * ***Chen-Yu Liu***, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021 May 20)
 
