@@ -9,7 +9,7 @@ header:
 
 
 ### PAPER
-
+#### 2023
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  arXiv preprint, arXiv: 2304.06473 
@@ -18,6 +18,7 @@ header:
  ***Chen-Yu Liu***  
  arXiv preprint, arXiv: 2304.13747 (2023)
  
+#### 2022
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
 arXiv preprint, arXiv: 2210.12953 (2022)
@@ -26,6 +27,7 @@ arXiv preprint, arXiv: 2210.12953 (2022)
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
 arXiv preprint, arXiv: 2208.03283 (2022)
 
+#### 2017-2021
 * [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
 ***Chen-Yu Liu***, Daw-Wei Wang  
 Physical Review B 103, 205107 (2021)
@@ -40,8 +42,8 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### ORAL PRESENTATION
-
-* <span style="color:blue">On the path of using small quantum computers for solving large-size combinatorial optimization problems</span>   
+#### 2023
+* On the path of using small quantum computers for solving large-size combinatorial optimization problems   
 ***Chen-Yu Liu***  
 IBM Quantum Network Colloquium. (2023 Mar 29)
 
@@ -57,6 +59,7 @@ APS March Meeting, Las Vegas, Nevada, USA. (2023 Mar 9)
 ***Chen-Yu Liu***  
 Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023 Jan 17) 
 
+#### 2022
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://www.hh-ri.com/2022/10/14/hybrid-gate-based-and-annealing-quantum-computing-for-large-size-ising-problems/)  
 ***Chen-Yu Liu***  
 HHQC seminar, Taiwan. (2022 Oct 14) 
@@ -65,11 +68,15 @@ HHQC seminar, Taiwan. (2022 Oct 14)
 ***Chen-Yu Liu***  
  NTU-IBM Quantum System 2022 user meeting and Qiskit Hackathon Taiwan 2022, Taipei, Taiwan. (2022 Jul 19)
 
+#### 2020-2021
+* [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing)  
+***Chen-Yu Liu***  
+Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021 May 20)
 
+* [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing)  
+***Chen-Yu Liu***  
+Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020 Feb 6) 
 
-* ***Chen-Yu Liu***, [ML Applications in Quantum Computation](https://drive.google.com/file/d/1sfs8fyVTcu6kLAjYXqQbiVbIRsTFcuQ2/view?usp=sharing), Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipei, Taiwan. (2021 May 20)
-
-* ***Chen-Yu Liu***, Daw-Wei Wang, [New Approach to Many-Body Ground State and Lowly Excited State Energies by Convolutional Neural Networks](https://drive.google.com/file/d/18pKCux8NHvoUGpk0tZ5qoEqPsaSR8dya/view?usp=sharing),  Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020 Feb 6) 
 
 ### POSTER PRESENTATION
 * Huan-Hsuan Kung, ***Chen-Yu Liu***, Daw-Wei Wang, Yen-Hsiang Lin, Improving characterization accuracy of fluxonium qubit parameters by machine learning, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023)
@@ -78,8 +85,11 @@ HHQC seminar, Taiwan. (2022 Oct 14)
 
 
 ### ACHIEVEMENT
-
+#### 2023
+* [First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
+* [Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
 * [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan (2023)
+#### 2016 - 2020
 * [Oral presentation Award](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=220), Physics Society of Taiwan (2020)     
 * [Best Bachelor Thesis Award](https://www.ps-taiwan.org/tw/modules/news/article.php?storyid=70), Physics Society of Taiwan (2019)     
 * Academia Sinica Chau-Ting Chang Summer Research Scholarship (2018)          
