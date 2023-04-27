@@ -12,7 +12,7 @@ header:
 #### 2023
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
- arXiv preprint, arXiv: 2304.06473 
+ arXiv preprint, arXiv: 2304.06473 (2023)
  
 * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
  ***Chen-Yu Liu***  
