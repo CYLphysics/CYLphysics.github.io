@@ -12,7 +12,7 @@ Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied 
 
 ## Background
 
-* PhD in Applied Physics, Natinoal Taiwan University (2021-current)
+* PhD in Applied Physics, National Taiwan University (2021-current)
 * MS in Physics, National Tsing Hua University (2018-2020) 
 * BS in Physics, National Dong Hwa University (2014-2018)
 
