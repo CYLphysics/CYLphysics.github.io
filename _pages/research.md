@@ -87,6 +87,7 @@ Annual Meeting of the Physical Society of Taiwan,  National Pingtung University,
 ### ACHIEVEMENT
 
 #### 2023
+* NSTC Elite PhD student Scholarship - Quantum Technology (2023)
 * [First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
 * [Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
 * [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan (2023)
