@@ -12,8 +12,8 @@ header:
 #### 2023
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
- arXiv preprint, arXiv: 2304.06473 (2023)
-(Accepted in IEEE International Conference on Quantum Computing and Engineering 2023)
+ arXiv preprint, arXiv: 2304.06473 (2023)  
+ IEEE International Conference on Quantum Computing and Engineering (2023)
 
  
 * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
@@ -27,8 +27,8 @@ arXiv preprint, arXiv: 2210.12953 (2022)
 
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
-arXiv preprint, arXiv: 2208.03283 (2022)
-
+arXiv preprint, arXiv: 2208.03283 (2022)  
+Bulletin of the American Physical Society, S70.00004 (2023)
 #### 2017-2021
 * [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
 ***Chen-Yu Liu***, Daw-Wei Wang  
