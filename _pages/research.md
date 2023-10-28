@@ -13,13 +13,14 @@ header:
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  arXiv preprint, arXiv: 2304.06473 (2023)  
- IEEE International Conference on Quantum Computing and Engineering (2023)  
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2023)  
  Third Place Prize, NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
  
 * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
  ***Chen-Yu Liu***  
- arXiv preprint, arXiv: 2304.03747 (2023)
- 
+ arXiv preprint, arXiv: 2304.03747 (2023)  
+ [Accepted at]  
+ IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023) 
 #### 2022
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
