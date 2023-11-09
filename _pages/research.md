@@ -10,6 +10,11 @@ header:
 
 ### PAPER
 #### 2023
+* [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
+ ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
+ arXiv preprint, arXiv: 2311.04690 (2023)  
+ First Place Prize, QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
+
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  arXiv preprint, arXiv: 2304.06473 (2023)  
