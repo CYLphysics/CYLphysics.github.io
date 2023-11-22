@@ -10,6 +10,12 @@ header:
 
 ### PAPER
 #### 2023
+
+* [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
+](https://arxiv.org/abs/2311.12328)  
+Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
+arXiv preprint, arXiv: 2311.12328 (2023)  
+
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
  arXiv preprint, arXiv: 2311.04690 (2023)  
