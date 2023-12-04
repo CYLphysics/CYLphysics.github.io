@@ -57,6 +57,10 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### TALK
 #### 2023
+* Machine Learninig and Quantum Computation  
+***Chen-Yu Liu***  
+QRACON annual meeting, SQCS, Taipei, Taiwan (2023 Aug 26)  
+
 * On the path of using small quantum computers for solving large-size combinatorial optimization problems   
 ***Chen-Yu Liu***  
 IBM Quantum Network Colloquium. (2023 Mar 29)
