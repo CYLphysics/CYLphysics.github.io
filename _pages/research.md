@@ -30,7 +30,6 @@ arXiv preprint, arXiv: 2311.12328 (2023)
 * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
  ***Chen-Yu Liu***  
  arXiv preprint, arXiv: 2304.03747 (2023)  
- [Accepted at]  
  IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023) 
 #### 2022
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
