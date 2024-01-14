@@ -24,7 +24,7 @@ arXiv preprint, arXiv: 2311.12328 (2023)
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  arXiv preprint, arXiv: 2304.06473 (2023)  
- IEEE International Conference on Quantum Computing and Engineering (QCE) (2023)  
+ [IEEE International Conference on Quantum Computing and Engineering](https://ieeexplore.ieee.org/document/10313826) (QCE) (2023)  
  Third Place Prize, NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
  
 * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
