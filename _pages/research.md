@@ -9,6 +9,11 @@ header:
 
 
 ### PAPER
+#### 2024 
+* [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
+***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh  
+arXiv preprint, arXiv: 2402.16465 (2024)
+
 #### 2023
 
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
