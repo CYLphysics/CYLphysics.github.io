@@ -8,7 +8,7 @@ header:
 ---
 
 
-### ACHIEVEMENT
+### Achievement  
 
 #### 2024 
 * 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of Taste Challenge, QHack 2024 Open Hackathon (2024)  
@@ -34,7 +34,25 @@ header:
 * College Student Research Scholarship, National Science Council (2017)  
 * Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
-### PAPER
+### Publication
+#### 2023
+* [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
+ ***Chen-Yu Liu***, Hsi-Sheng Goan  
+ IEEE International Conference on Quantum Computing and Engineering ([QCE](https://ieeexplore.ieee.org/document/10313826)) (2023)  
+
+* [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
+ ***Chen-Yu Liu***  
+ IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023)
+#### 2021
+* [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
+***Chen-Yu Liu***, Daw-Wei Wang  
+Physical Review B 103, 205107 (2021)
+#### 2017
+* [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b)  
+***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin  
+Classical and Quantum Gravity 34 (23), 235008 (2017)
+
+### Manuscript
 #### 2024 
 * [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh  
@@ -50,18 +68,7 @@ arXiv preprint, arXiv: 2311.12328 (2023)
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
  arXiv preprint, arXiv: 2311.04690 (2023)  
- First Place Prize, QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
 
-* [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
- ***Chen-Yu Liu***, Hsi-Sheng Goan  
- arXiv preprint, arXiv: 2304.06473 (2023)  
- [IEEE International Conference on Quantum Computing and Engineering](https://ieeexplore.ieee.org/document/10313826) (QCE) (2023)  
- Third Place Prize, NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
- 
-* [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
- ***Chen-Yu Liu***  
- arXiv preprint, arXiv: 2304.03747 (2023)  
- IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023) 
 #### 2022
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
@@ -70,22 +77,17 @@ arXiv preprint, arXiv: 2210.12953 (2022)
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
 arXiv preprint, arXiv: 2208.03283 (2022)  
-Bulletin of the American Physical Society, S70.00004 (2023)
-#### 2017-2021
-* [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
-***Chen-Yu Liu***, Daw-Wei Wang  
-Physical Review B 103, 205107 (2021)
 
+
+#### 2018  
 * [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993)  
 ***Chen-Yu Liu***  
 arXiv preprint, arXiv: 1806.09993 (2018)
 
-* [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b)  
-***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin  
-Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
-### TALK
+
+### Talk
 #### 2023
 * Machine Learninig and Quantum Computation  
 ***Chen-Yu Liu***  
@@ -126,7 +128,7 @@ Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipe
 Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020 Feb 6) 
 
 
-### POSTER
+### Poster
 * Huan-Hsuan Kung, ***Chen-Yu Liu***, Daw-Wei Wang, Yen-Hsiang Lin, Improving characterization accuracy of fluxonium qubit parameters by machine learning, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023)
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Motion of charged particles around a weakly magnetized rotating charged Black Hole](https://drive.google.com/file/d/1pnik5d7_hk-EuOUy9P3XHIBQd5708r5-/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  National Taiwan University, Taipei, Taiwan. (2018)  
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesics of charged particles moving around a Kerr-Newman Black Hole](https://drive.google.com/file/d/1qQLwUdslKWgs5CAEMXKBNlGC0h5Yrzp4/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  Tamkang University, Taipei, Taiwan. (2017)                    
