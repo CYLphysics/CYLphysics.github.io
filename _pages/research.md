@@ -8,6 +8,32 @@ header:
 ---
 
 
+### ACHIEVEMENT
+
+#### 2024 
+* 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of Taste Challenge, QHack 2024 Open Hackathon (2024)  
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge, QHack 2024 Open Hackathon (2024)
+
+#### 2023
+* 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Challenge Quantum Hackathon on Quantum Machine Learning (2023)
+* 🥇[First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
+  * NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)
+  * HPCwire [post](https://www.hpcwire.com/off-the-wire/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)  
+* NSTC Elite PhD student Scholarship - Quantum Technology (2023)
+* [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan (2023)
+ 
+
+#### 2016 - 2020
+
+* [Oral presentation Award](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=220), Physics Society of Taiwan (2020)     
+* [Best Bachelor Thesis Award](https://www.ps-taiwan.org/tw/modules/news/article.php?storyid=70), Physics Society of Taiwan (2019)     
+* Academia Sinica Chau-Ting Chang Summer Research Scholarship (2018)          
+* Student Paper Award,  Annual Meeting of PSROC 2018 (2018)                 
+* 1st at Project Competition Award, Department of Physics, National Dong Hwa University (2017)  
+* College Student Research Scholarship, National Science Council (2017)  
+* Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
+
 ### PAPER
 #### 2024 
 * [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
@@ -105,27 +131,5 @@ Annual Meeting of the Physical Society of Taiwan,  National Pingtung University,
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Motion of charged particles around a weakly magnetized rotating charged Black Hole](https://drive.google.com/file/d/1pnik5d7_hk-EuOUy9P3XHIBQd5708r5-/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  National Taiwan University, Taipei, Taiwan. (2018)  
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesics of charged particles moving around a Kerr-Newman Black Hole](https://drive.google.com/file/d/1qQLwUdslKWgs5CAEMXKBNlGC0h5Yrzp4/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  Tamkang University, Taipei, Taiwan. (2017)                    
 
-
-### ACHIEVEMENT
-
-#### 2023
-* [First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Challenge Quantum Hackathon on Quantum Machine Learning (2023)
-* NSTC Elite PhD student Scholarship - Quantum Technology (2023)
-* [First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
-* [Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
-  * NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)
-  * HPCwire [post](https://www.hpcwire.com/off-the-wire/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)
-* [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan (2023)
- 
-
-#### 2016 - 2020
-
-* [Oral presentation Award](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=220), Physics Society of Taiwan (2020)     
-* [Best Bachelor Thesis Award](https://www.ps-taiwan.org/tw/modules/news/article.php?storyid=70), Physics Society of Taiwan (2019)     
-* Academia Sinica Chau-Ting Chang Summer Research Scholarship (2018)          
-* Student Paper Award,  Annual Meeting of PSROC 2018 (2018)                 
-* 1st at Project Competition Award, Department of Physics, National Dong Hwa University (2017)  
-* College Student Research Scholarship, National Science Council (2017)  
-* Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
 Peace                                    
