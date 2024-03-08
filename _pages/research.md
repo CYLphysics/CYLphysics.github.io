@@ -25,7 +25,6 @@ header:
  
 
 #### 2016 - 2020
-
 * [Oral presentation Award](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=220), Physics Society of Taiwan (2020)     
 * [Best Bachelor Thesis Award](https://www.ps-taiwan.org/tw/modules/news/article.php?storyid=70), Physics Society of Taiwan (2019)     
 * Academia Sinica Chau-Ting Chang Summer Research Scholarship (2018)          
@@ -35,7 +34,7 @@ header:
 * Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
 ### Publication
-#### 2023
+
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  IEEE International Conference on Quantum Computing and Engineering ([QCE](https://ieeexplore.ieee.org/document/10313826)) (2023)  
@@ -43,11 +42,11 @@ header:
 * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
  ***Chen-Yu Liu***  
  IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023)
-#### 2021
+
 * [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
 ***Chen-Yu Liu***, Daw-Wei Wang  
 Physical Review B 103, 205107 (2021)
-#### 2017
+
 * [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b)  
 ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin  
 Classical and Quantum Gravity 34 (23), 235008 (2017)
