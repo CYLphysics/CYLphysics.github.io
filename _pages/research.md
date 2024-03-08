@@ -53,12 +53,10 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
-#### 2024 
+
 * [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh  
 arXiv preprint, arXiv: 2402.16465 (2024)
-
-#### 2023
 
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
 ](https://arxiv.org/abs/2311.12328)  
@@ -67,9 +65,8 @@ arXiv preprint, arXiv: 2311.12328 (2023)
 
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
- arXiv preprint, arXiv: 2311.04690 (2023)  
+ arXiv preprint, arXiv: 2311.04690 (2023)
 
-#### 2022
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
 arXiv preprint, arXiv: 2210.12953 (2022)
@@ -78,8 +75,6 @@ arXiv preprint, arXiv: 2210.12953 (2022)
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
 arXiv preprint, arXiv: 2208.03283 (2022)  
 
-
-#### 2018  
 * [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993)  
 ***Chen-Yu Liu***  
 arXiv preprint, arXiv: 1806.09993 (2018)
