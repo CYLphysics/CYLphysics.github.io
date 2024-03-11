@@ -15,7 +15,7 @@ header:
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge, QHack 2024 Open Hackathon (2024)
 
 #### 2023
-* 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Challenge Quantum Hackathon on Quantum Machine Learning (2023)
+* 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Hackathon on Quantum Machine Learning (2023)
 * 🥇[First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
   * NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)
