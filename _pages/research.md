@@ -35,6 +35,14 @@ header:
 
 ### Publication
 
+* [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
+ ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
+ International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
+
+* [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
+***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
+International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted] 
+
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  IEEE International Conference on Quantum Computing and Engineering ([QCE](https://ieeexplore.ieee.org/document/10313826)) (2023)  
@@ -65,14 +73,6 @@ arXiv preprint, arXiv: 2402.16465 (2024)
 ](https://arxiv.org/abs/2311.12328)  
 Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
 arXiv preprint, arXiv: 2311.12328 (2023)  
-
-* [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
- ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
- arXiv preprint, arXiv: 2311.04690 (2023)
-
-* [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
-***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
-arXiv preprint, arXiv: 2210.12953 (2022)
 
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
