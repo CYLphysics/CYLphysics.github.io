@@ -37,11 +37,11 @@ header:
 
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
- International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
+ IEEE International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
 
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
-International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted] 
+IEEE International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted] 
 
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
