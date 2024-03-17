@@ -11,8 +11,10 @@ header:
 ### Achievement  
 
 #### 2024 
+
 * 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of Taste Challenge, QHack 2024 Open Hackathon (2024)  
-* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge, QHack 2024 Open Hackathon (2024)
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge, QHack 2024 Open Hackathon (2024)  
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), NVIDIA & Denvr Dataworks Prizes, QHack 2024 Open Hackathon (2024)
 
 #### 2023
 * 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Hackathon on Quantum Machine Learning (2023)
