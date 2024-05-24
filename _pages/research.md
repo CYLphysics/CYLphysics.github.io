@@ -11,7 +11,8 @@ header:
 ### Achievement  
 
 #### 2024 
-
+* 🥈[Second Place Prize](https://app.ekipa.de/challenges/deloitte-quantum-24/brief), Deloitte's Quantum Climate Challenge 2024
+  * Linkedin Post [post](https://www.linkedin.com/feed/update/urn:li:activity:7199395343703138304/) 
 * 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of Taste Challenge, QHack 2024 Open Hackathon (2024)  
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge, QHack 2024 Open Hackathon (2024)  
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), NVIDIA & Denvr Dataworks Prizes, QHack 2024 Open Hackathon (2024)
@@ -62,6 +63,10 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
+
+* [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
+***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
+arXiv preprint, arXiv: 2405.11304 (2024)
 
 * [Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations](https://arxiv.org/abs/2403.05828)  
 Kuan-Cheng Chen, Xiaoren Li, Xiaotian Xu, Yun-Yuan Wang, ***Chen-Yu Liu***  
