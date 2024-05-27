@@ -38,6 +38,15 @@ header:
 
 ### Publication
 
+* [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
+](https://arxiv.org/abs/2311.12328)  
+Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
+IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) (2024) [Accepted]
+
+* [Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations](https://arxiv.org/abs/2403.05828)  
+Kuan-Cheng Chen, Xiaoren Li, Xiaotian Xu, Yun-Yuan Wang, ***Chen-Yu Liu***  
+International Conference On Intelligent Computing (ICIC) (2024) [Accepted]
+
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
  IEEE International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
@@ -68,18 +77,9 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 arXiv preprint, arXiv: 2405.11304 (2024)
 
-* [Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations](https://arxiv.org/abs/2403.05828)  
-Kuan-Cheng Chen, Xiaoren Li, Xiaotian Xu, Yun-Yuan Wang, ***Chen-Yu Liu***  
-arXiv preprint, arXiv: 2403.05828 (2024)
-
 * [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh  
 arXiv preprint, arXiv: 2402.16465 (2024)
-
-* [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
-](https://arxiv.org/abs/2311.12328)  
-Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
-arXiv preprint, arXiv: 2311.12328 (2023)  
 
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
