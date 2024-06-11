@@ -41,19 +41,20 @@ header:
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
 ](https://arxiv.org/abs/2311.12328)  
 Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
-IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) (2024) [Accepted]
+International Conference On Intelligent Computing (ICIC) (2024) [Accepted]  
 
 * [Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations](https://arxiv.org/abs/2403.05828)  
 Kuan-Cheng Chen, Xiaoren Li, Xiaotian Xu, Yun-Yuan Wang, ***Chen-Yu Liu***  
-International Conference On Intelligent Computing (ICIC) (2024) [Accepted]
+IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) (2024) [Accepted]  
+
 
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
- IEEE International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
+  International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
 
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
-IEEE International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted] 
+ International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted] 
 
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
@@ -72,6 +73,10 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
+
+* [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
+***Chen-Yu Liu***, Kuan-Cheng Chen  
+arXiv preprint, arXiv: 2406.06445 (2024)
 
 * [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
