@@ -11,6 +11,7 @@ header:
 ### Achievement  
 
 #### 2024 
+* Foxconn Technology Award 2024 
 * 🥈[Second Place Prize](https://app.ekipa.de/challenges/deloitte-quantum-24/brief), Deloitte's Quantum Climate Challenge 2024 (2024)
   * Linkedin Post [post](https://www.linkedin.com/feed/update/urn:li:activity:7199395343703138304/) 
 * 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of Taste Challenge, QHack 2024 Open Hackathon (2024)  
