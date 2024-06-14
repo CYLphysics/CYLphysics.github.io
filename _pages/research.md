@@ -11,21 +11,18 @@ header:
 ### Achievement  
 
 #### 2024 
-* Foxconn Technology Award 2024 
-* 🥈[Second Place Prize](https://app.ekipa.de/challenges/deloitte-quantum-24/brief), Deloitte's Quantum Climate Challenge 2024 (2024)
-  * Linkedin Post [post](https://www.linkedin.com/feed/update/urn:li:activity:7199395343703138304/) 
-* 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of Taste Challenge, QHack 2024 Open Hackathon (2024)  
-* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge, QHack 2024 Open Hackathon (2024)  
-* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), NVIDIA & Denvr Dataworks Prizes, QHack 2024 Open Hackathon (2024)
+* 🏆 Foxconn Technology Award 2024 
+* 🥈[Second Place Prize](https://app.ekipa.de/challenges/deloitte-quantum-24/brief) (<sub><sup>Linkedin Post [post](https://www.linkedin.com/feed/update/urn:li:activity:7199395343703138304/)</sup></sub>), Deloitte's Quantum Climate Challenge 2024 
+* 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of  Taste Challenge,   QHack 2024 Open Hackathon   
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge,  QHack 2024 Open Hackathon  
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), NVIDIA & Denvr Dataworks Prizes, QHack 2024 Open Hackathon 
 
 #### 2023
-* 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Hackathon on Quantum Machine Learning (2023)
-* 🥇[First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon (2023)
-* 🥉[Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), NVIDIA Challenge, QHack 2023 Open Hackathon (2023)
-  * NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)
-  * HPCwire [post](https://www.hpcwire.com/off-the-wire/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)  
-* NSTC Elite PhD student Scholarship - Quantum Technology (2023)
-* [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan (2023)
+* 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Hackathon on Quantum Machine Learning 
+* 🥇[First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon 
+* 🥉[Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon) (<sub><sup> NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/), HPCwire [post](https://www.hpcwire.com/off-the-wire/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)   </sup></sub>), NVIDIA Challenge, QHack 2023 Open Hackathon 
+* 🏆 NSTC Elite PhD student Scholarship - Quantum Technology
+* 🏆 [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan 
  
 
 #### 2016 - 2020
@@ -42,20 +39,20 @@ header:
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
 ](https://arxiv.org/abs/2311.12328)  
 Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
-International Conference On Intelligent Computing (ICIC) (2024) [Accepted]  
+International Conference On Intelligent Computing (ICIC) (2024) 
 
 * [Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations](https://arxiv.org/abs/2403.05828)  
 Kuan-Cheng Chen, Xiaoren Li, Xiaotian Xu, Yun-Yuan Wang, ***Chen-Yu Liu***  
-IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) (2024) [Accepted]  
+IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC) (2024) 
 
 
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
-  International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted]
+  International Joint Conference on Neural Networks (IJCNN) (2024) 
 
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
- International Joint Conference on Neural Networks (IJCNN) (2024) [Accepted] 
+ International Joint Conference on Neural Networks (IJCNN) (2024) 
 
 * [Reinforcement Learning Quantum Local Search](https://arxiv.org/abs/2304.06473)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
