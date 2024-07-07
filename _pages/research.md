@@ -11,7 +11,7 @@ header:
 ### Achievement  
 
 #### 2024 
-* 🏆 Foxconn Technology Award 2024 
+* 🏆 Foxconn Technology Award (鴻海科技獎) 2024 
 * 🥈[Second Place Prize](https://app.ekipa.de/challenges/deloitte-quantum-24/brief) (<sub><sup>Linkedin Post [post](https://www.linkedin.com/feed/update/urn:li:activity:7199395343703138304/)</sup></sub>), Deloitte's Quantum Climate Challenge 2024 
 * 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of  Taste Challenge,   QHack 2024 Open Hackathon   
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), The Sound of Silence Challenge,  QHack 2024 Open Hackathon  
@@ -21,7 +21,7 @@ header:
 * 🥇[First Place Prize](https://phys.nccu.edu.tw/PageDoc/Detail?fid=1997&id=25351), Ephys Hackathon on Quantum Machine Learning 
 * 🥇[First Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon), QEC and Compilation Challenge, QHack 2023 Open Hackathon 
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon) (<sub><sup> NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/), HPCwire [post](https://www.hpcwire.com/off-the-wire/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)   </sup></sub>), NVIDIA Challenge, QHack 2023 Open Hackathon 
-* 🏆 NSTC Elite PhD student Scholarship - Quantum Technology
+* 🏆 NSTC Elite PhD student Scholarship - Quantum Technology (國科會菁英博士生獎學金-量子科技)
 * 🏆 [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan 
  
 
