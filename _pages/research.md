@@ -71,11 +71,13 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
+* [Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem](https://arxiv.org/abs/2407.08617)  
+Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen  
+arXiv preprint, arXiv: 2407.08617 (2024)  
 
 * [QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train](https://arxiv.org/abs/2407.06103)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Chao-Han Huck Yang, Kuan-Cheng Chen, Min-Hsiu Hsieh  
 arXiv preprint, arXiv: 2407.06103 (2024)  
-
 
 * [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen  
