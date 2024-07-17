@@ -142,11 +142,11 @@ Symposium for Quantum Artificial Intelligence, National Taiwan University, Taipe
 ***Chen-Yu Liu***  
 Annual Meeting of the Physical Society of Taiwan,  National Pingtung University, Pingtung, Taiwan. (2020 Feb 6) 
 
-
+<!---
 ### Poster
 * Huan-Hsuan Kung, ***Chen-Yu Liu***, Daw-Wei Wang, Yen-Hsiang Lin, Improving characterization accuracy of fluxonium qubit parameters by machine learning, Annual Meeting of the Physical Society of Taiwan, National Cheng Kung University, Tainan, Taiwan. (2023)
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Motion of charged particles around a weakly magnetized rotating charged Black Hole](https://drive.google.com/file/d/1pnik5d7_hk-EuOUy9P3XHIBQd5708r5-/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  National Taiwan University, Taipei, Taiwan. (2018)  
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesics of charged particles moving around a Kerr-Newman Black Hole](https://drive.google.com/file/d/1qQLwUdslKWgs5CAEMXKBNlGC0h5Yrzp4/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  Tamkang University, Taipei, Taiwan. (2017)                    
-
+--->
 
 Peace                                    
