@@ -71,6 +71,10 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
+* [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
+***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
+arXiv preprint, arXiv: 2407.13616 (2024)  
+
 * [Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem](https://arxiv.org/abs/2407.08617)  
 Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen  
 arXiv preprint, arXiv: 2407.08617 (2024)  
