@@ -71,6 +71,10 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
+* [Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware](https://arxiv.org/abs/2407.17325)  
+Kuan-Cheng Chen, Xiatian Xu, Felix Burt, ***Chen-Yu Liu***  
+arXiv preprint, arXiv: 2407.17325 (2024)  
+
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
 arXiv preprint, arXiv: 2407.13616 (2024)  
