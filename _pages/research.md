@@ -48,9 +48,9 @@ Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen
  IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)    
 
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
-](https://arxiv.org/abs/2311.12328)  
+](https://link.springer.com/chapter/10.1007/978-981-97-5609-4_12)  
 Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
-International Conference On Intelligent Computing (ICIC) (2024) 
+International Conference On Intelligent Computing (ICIC) (2024)  [arXiv](https://arxiv.org/abs/2311.12328)    
 
 * [Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations](https://arxiv.org/abs/2403.05828)  
 Kuan-Cheng Chen, Xiaoren Li, Xiaotian Xu, Yun-Yuan Wang, ***Chen-Yu Liu***  
