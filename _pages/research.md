@@ -35,6 +35,17 @@ header:
 * Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
 ### Publication
+* [Introduction to Quantum-Train Toolkit](https://github.com/Hon-Hai-Quantum-Computing/QuantumTrain)  
+***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Wei-Jia Huang, Min-Hsiu Hsieh   
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
+
+* [Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem](https://arxiv.org/abs/2407.08617)  
+Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen  
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)    
+
+* [QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train](https://arxiv.org/abs/2407.06103)  
+***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Chao-Han Huck Yang, Kuan-Cheng Chen, Min-Hsiu Hsieh  
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)    
 
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
 ](https://arxiv.org/abs/2311.12328)  
@@ -78,14 +89,6 @@ arXiv preprint, arXiv: 2407.17325 (2024)
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
 arXiv preprint, arXiv: 2407.13616 (2024)  
-
-* [Quantum-Train Long Short-Term Memory: Application on Flood Prediction Problem](https://arxiv.org/abs/2407.08617)  
-Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen  
-arXiv preprint, arXiv: 2407.08617 (2024)  
-
-* [QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train](https://arxiv.org/abs/2407.06103)  
-***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Chao-Han Huck Yang, Kuan-Cheng Chen, Min-Hsiu Hsieh  
-arXiv preprint, arXiv: 2407.06103 (2024)  
 
 * [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen  
