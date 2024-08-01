@@ -45,7 +45,11 @@ Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen
 
 * [QTRL: Toward Practical Quantum Reinforcement Learning via Quantum-Train](https://arxiv.org/abs/2407.06103)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Chao-Han Huck Yang, Kuan-Cheng Chen, Min-Hsiu Hsieh  
- IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)    
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
+
+* [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
+***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh   
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)  
 
 * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
 ](https://link.springer.com/chapter/10.1007/978-981-97-5609-4_12)  
@@ -97,10 +101,6 @@ arXiv preprint, arXiv: 2406.06445 (2024)
 * [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 arXiv preprint, arXiv: 2405.11304 (2024)
-
-* [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
-***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh  
-arXiv preprint, arXiv: 2402.16465 (2024)
 
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
