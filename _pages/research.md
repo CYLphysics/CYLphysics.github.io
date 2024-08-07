@@ -47,6 +47,10 @@ Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Chao-Han Huck Yang, Kuan-Cheng Chen, Min-Hsiu Hsieh  
  IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
 
+* [Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware](https://arxiv.org/abs/2407.17325)  
+Kuan-Cheng Chen, Xiatian Xu, Felix Burt, ***Chen-Yu Liu***   
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
+
 * [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh   
  IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)  
@@ -86,9 +90,7 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
-* [Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware](https://arxiv.org/abs/2407.17325)  
-Kuan-Cheng Chen, Xiatian Xu, Felix Burt, ***Chen-Yu Liu***  
-arXiv preprint, arXiv: 2407.17325 (2024)  
+ 
 
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
