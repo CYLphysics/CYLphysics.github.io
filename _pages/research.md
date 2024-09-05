@@ -91,6 +91,9 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
  
+* [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
+***Chen-Yu Liu***, Samuel Yen-Chi Chen  
+arXiv preprint, arXiv: 2409.02763 (2024)  
 
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
