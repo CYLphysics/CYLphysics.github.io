@@ -90,7 +90,12 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
- 
+
+* [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
+***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
+arXiv preprint, arXiv: 2409.06992 (2024)  
+
+
 * [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
 ***Chen-Yu Liu***, Samuel Yen-Chi Chen  
 arXiv preprint, arXiv: 2409.02763 (2024)  
