@@ -35,6 +35,11 @@ header:
 * Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
 ### Publication
+
+* [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
+***Chen-Yu Liu***, Samuel Yen-Chi Chen  
+International Conference on ICT Convergence (ICTC) (2024) 
+
 * [Introduction to Quantum-Train Toolkit](https://github.com/Hon-Hai-Quantum-Computing/QuantumTrain)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Wei-Jia Huang, Min-Hsiu Hsieh   
  IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
@@ -93,12 +98,7 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 * [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
-arXiv preprint, arXiv: 2409.06992 (2024)  
-
-
-* [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
-***Chen-Yu Liu***, Samuel Yen-Chi Chen  
-arXiv preprint, arXiv: 2409.02763 (2024)  
+arXiv preprint, arXiv: 2409.06992 (2024)   
 
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
