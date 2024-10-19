@@ -96,6 +96,14 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
 
+* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://arxiv.org/abs/2410.09846)  
+***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
+arXiv preprint, arXiv: 2410.09846 (2024)   
+
+* [Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection](https://arxiv.org/abs/2410.09250)  
+Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen  
+arXiv preprint, arXiv: 2410.09250 (2024)   
+
 * [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
 arXiv preprint, arXiv: 2409.06992 (2024)   
