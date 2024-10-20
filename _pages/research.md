@@ -11,6 +11,7 @@ header:
 ### Achievement  
 
 #### 2024 
+* 🏆 ICTC 2024 Best AI Paper Award (arXiv:2409.02763)
 * 🏆 Foxconn Technology Award (鴻海科技獎) 2024 
 * 🥈[Second Place Prize](https://app.ekipa.de/challenges/deloitte-quantum-24/brief) (<sub><sup>Linkedin Post [post](https://www.linkedin.com/feed/update/urn:li:activity:7199395343703138304/)</sup></sub>), Deloitte's Quantum Climate Challenge 2024 
 * 🥈[Second Place Prize](https://pennylane.ai/blog/2024/03/qhack-2024-highlights/#top-teams-and-projects), A Matter of  Taste Challenge,   QHack 2024 Open Hackathon   
