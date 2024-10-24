@@ -35,7 +35,18 @@ header:
 * College Student Research Scholarship, National Science Council (2017)  
 * Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
-### Publication
+### Publication - Journal  
+
+* [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
+***Chen-Yu Liu***, Daw-Wei Wang  
+Physical Review B 103, 205107 (2021)
+
+* [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b)  
+***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin  
+Classical and Quantum Gravity 34 (23), 235008 (2017)
+
+
+### Publication - Conference Paper 
 
 * [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
 ***Chen-Yu Liu***, Samuel Yen-Chi Chen  
@@ -87,13 +98,6 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
  ***Chen-Yu Liu***  
  IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023)
 
-* [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
-***Chen-Yu Liu***, Daw-Wei Wang  
-Physical Review B 103, 205107 (2021)
-
-* [Geodesic Motion of Neutral Particle around a Kerr-Newman Black Hole](https://iopscience.iop.org/article/10.1088/1361-6382/aa903b)  
-***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin  
-Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Manuscript
 
