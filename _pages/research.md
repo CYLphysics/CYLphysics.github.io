@@ -107,7 +107,15 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
  IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023)
 
 
-### Manuscript
+### Manuscript (Mostly in submission)
+
+* [Quantum-Train-Based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2412.08845)  
+Kuan-Cheng Chen, Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kin K Leung  
+arXiv preprint, arXiv: 2412.08845 (2024)   
+
+* [Programming Variational Quantum Circuits with Quantum-Train Agent](https://arxiv.org/abs/2412.01173)  
+***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang  
+arXiv preprint, arXiv: 2412.01173 (2024)   
 
 * [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://arxiv.org/abs/2410.09846)  
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
