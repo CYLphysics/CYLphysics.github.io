@@ -35,7 +35,7 @@ header:
 * College Student Research Scholarship, National Science Council (2017)  
 * Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
-### Publication - Journal  
+### Publication : Peer-reviewed Journal  
 <!---
 * [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
@@ -54,7 +54,15 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
-### Publication - Conference Paper 
+### Publication : Peer-reviewed Conference Paper 
+
+* [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
+***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
+
+* [Quantum-Train-Based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2412.08845)  
+Kuan-Cheng Chen, Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kin K Leung  
+IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (SSCI) (2025)   
 
 * [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
 ***Chen-Yu Liu***, Samuel Yen-Chi Chen  
@@ -109,10 +117,6 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
 
 ### Manuscript (Mostly in submission)
 
-* [Quantum-Train-Based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2412.08845)  
-Kuan-Cheng Chen, Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kin K Leung  
-arXiv preprint, arXiv: 2412.08845 (2024)   
-
 * [Programming Variational Quantum Circuits with Quantum-Train Agent](https://arxiv.org/abs/2412.01173)  
 ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang  
 arXiv preprint, arXiv: 2412.01173 (2024)   
@@ -124,10 +128,6 @@ arXiv preprint, arXiv: 2410.09846 (2024)
 * [Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection](https://arxiv.org/abs/2410.09250)  
 Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen  
 arXiv preprint, arXiv: 2410.09250 (2024)   
-
-* [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
-***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
-arXiv preprint, arXiv: 2409.06992 (2024)   
 
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
