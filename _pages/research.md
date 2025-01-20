@@ -60,6 +60,14 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
 
+* [Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection](https://arxiv.org/abs/2410.09250)   
+Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen  
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
+
+* [CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimensional Neuroimaging Data](https://arxiv.org/abs/2409.08584)  
+Kuan-Cheng Chen, Yi-Tien Li, Tai-Yu Li, ***Chen-Yu Liu***, Po-Heng Li, Cheng-Yu Chen  
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
+
 * [Quantum-Train-Based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2412.08845)  
 Kuan-Cheng Chen, Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kin K Leung  
 IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (SSCI) (2025)   
@@ -124,10 +132,6 @@ arXiv preprint, arXiv: 2412.01173 (2024)
 * [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://arxiv.org/abs/2410.09846)  
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 arXiv preprint, arXiv: 2410.09846 (2024)   
-
-* [Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection](https://arxiv.org/abs/2410.09250)  
-Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen  
-arXiv preprint, arXiv: 2410.09250 (2024)   
 
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
