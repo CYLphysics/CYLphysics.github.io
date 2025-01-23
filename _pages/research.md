@@ -56,6 +56,18 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Publication : Peer-reviewed Conference Paper 
 
+* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://arxiv.org/abs/2410.09846)  
+***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
+The Thirteenth International Conference on Learning Representations (ICLR) (2025)  
+
+* [Programming Variational Quantum Circuits with Quantum-Train Agent](https://arxiv.org/abs/2412.01173)  
+***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang  
+International Conference on Quantum Communications, Networking, and Computing (QCNC) (2025)  
+
+* [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
+***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
+International Conference on Quantum Communications, Networking, and Computing (QCNC) (2025)  
+
 * [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
@@ -125,17 +137,6 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
 
 ### Manuscript (Mostly in submission)
 
-* [Programming Variational Quantum Circuits with Quantum-Train Agent](https://arxiv.org/abs/2412.01173)  
-***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang  
-arXiv preprint, arXiv: 2412.01173 (2024)   
-
-* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://arxiv.org/abs/2410.09846)  
-***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
-arXiv preprint, arXiv: 2410.09846 (2024)   
-
-* [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
-***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
-arXiv preprint, arXiv: 2407.13616 (2024)  
 
 * [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen  
