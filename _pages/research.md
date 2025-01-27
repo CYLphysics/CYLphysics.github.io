@@ -56,7 +56,7 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 ### Publication : Peer-reviewed Conference Paper 
 
-* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://arxiv.org/abs/2410.09846)  
+* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://openreview.net/forum?id=bB0OKNpznp)  
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 The Thirteenth International Conference on Learning Representations (ICLR) (2025)  
 
