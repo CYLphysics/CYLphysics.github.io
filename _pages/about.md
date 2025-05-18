@@ -7,8 +7,7 @@ header:
   image: /assets/images/rsnn.png
 ---
 
-Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied Physics, National Taiwan University, and a research intern at Hon Hai Quantum Computing Research Center. My research interests involve developing algorithms for large combinatorial optimization problems by quantum computing, machine learning applications of quantum circuit experiments, and the QUBO perspective of factorization machines. 
-
+Chen-Yu Liu is a Research Scientist at Quantinuum London and a Ph.D. candidate in Applied Physics at National Taiwan University, advised by Prof. Hsi-Sheng Goan. He specializes in quantum computing, quantum machine learning, and parameter-efficient learning techniques. His research focuses on developing hybrid quantum-classical algorithms such as Quantum Parameter Adaptation (QPA) and Quantum-Train (QT), which leverage quantum computing to enhance neural network training and model compression. He has published his work at leading AI and quantum computing conferences, including ICLR, ICASSP, IJCNN, QCE, ICTC, and QCNC, contributing to advancements in quantum-enhanced AI models and efficient learning strategies. Previously, he interned at Hon Hai (Foxconn) Research Institute, Jij, and Entropica Labs, where he explored practical quantum algorithms for deep learning and optimization. His long-term goal is to bridge the gap between quantum and classical machine learning, enabling scalable and resource-efficient quantum AI solutions.
 
 ## Background
 
@@ -27,9 +26,6 @@ Quantinuum (2025-Current)
 Quantum Computing Research Center, Hon Hai Research Institute (2022-2025)  
 <img src="/assets/images/hh.png" width="200px" align="center">
 
-### Coach  
-NTU-IBM Qiskit Hackathon Taiwan (2022)  
-<img src="/assets/images/ntuibm.png" width="400px" align="center">
 
 ### Apprentice Quantum Researcher  
 Entropica Labs (2021)  
