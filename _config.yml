@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Chen-Yu Liu"
   avatar : "/assets/images/bio-photo2.jpg"
-  bio    : "Currently a Ph.D. candidate at the Graduate Institute of Applied Physics, National Taiwan University, and a research intern at Hon Hai Quantum Computing Research Center. "
+  bio    : "Currently a Research Scientist at Quantinuum London, and a Ph.D. candidate at the Graduate Institute of Applied Physics, National Taiwan University. "
   links:
     - label: "Google Scholar"
       icon: "fab fa-google"
