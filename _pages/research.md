@@ -10,6 +10,10 @@ header:
 
 ### Achievement  
 
+#### 2025
+* 🏆 [Special mentions](https://www.linkedin.com/posts/quandela_perceval-quest-activity-7318636893607219200-KDxw/), Quandela Perceval QML Competition 2025 
+* 🥉[Third Place Prize](https://www.pasqal.com/events/the-blaise-pascal-quantum-challenge-2025-highlights-winners/) (out of 137 teams), The Blaise Pascal Quantum Challenge 2025 
+
 #### 2024 
 * 🏆 ICTC 2024 Best AI Paper Award (arXiv:2409.02763)
 * 🏆 Foxconn Technology Award (鴻海科技獎) 2024 
@@ -55,6 +59,10 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### Publication : Peer-reviewed Conference Paper 
+* [Frame Generation in Hilbert Space: Generative Interpolation of Measurement Data for Quantum Parameter Adaptation
+](https://openreview.net/forum?id=JNhTrqu39R)  
+***Chen-Yu Liu***, Kuan-Cheng Chen, Samuel Yen-Chi Chen, Huang wei hao, Wei-Jia Huang, Yen Jui Chang  
+ICLR 2025 DeLTa Workshop (2025)
 
 * [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://openreview.net/forum?id=bB0OKNpznp)  
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
