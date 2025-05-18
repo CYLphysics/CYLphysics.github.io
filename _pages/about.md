@@ -18,9 +18,13 @@ Chen-Yu Liu is currently a Ph.D. candidate at the Graduate Institute of Applied 
 
 ## Experience
 
+### ML Research Scientist, Quantum for AI
+Quantinuum (2025-Current)  
+<img src="/assets/images/quantinuum_logo.png" width="200px" align="center">
+
 
 ### Research Intern  
-Quantum Computing Research Center, Hon Hai Research Institute (2022-current)  
+Quantum Computing Research Center, Hon Hai Research Institute (2022-2025)  
 <img src="/assets/images/hh.png" width="200px" align="center">
 
 ### Coach  
