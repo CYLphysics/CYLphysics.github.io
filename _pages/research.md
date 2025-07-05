@@ -26,13 +26,13 @@ header:
 * 🥉[Third Place Prize](https://pennylane.ai/blog/2023/04/qhack-2023-highlights/#open-hackathon) (<sub><sup> NVIDIA blog [post](https://developer.nvidia.com/blog/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/), HPCwire [post](https://www.hpcwire.com/off-the-wire/qhack-results-highlight-quantum-computing-applications-and-tools-on-gpus/)   </sup></sub>), NVIDIA Challenge, Xanadu QHack 2023 Open Hackathon 
 * 🏆 NSTC Elite PhD student Scholarship - Quantum Technology (國科會菁英博士生獎學金-量子科技)
 * 🏆 [Oral presentation Award](https://tps2023.conf.tw/site/news_show.aspx?sid=1463&lang=en&pid=308), Physics Society of Taiwan  
-* [Oral presentation Award](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=220), Physics Society of Taiwan (2020)     
-* [Best Bachelor Thesis Award](https://www.ps-taiwan.org/tw/modules/news/article.php?storyid=70), Physics Society of Taiwan (2019)     
-* Academia Sinica Chau-Ting Chang Summer Research Scholarship (2018)          
-* Student Paper Award,  Annual Meeting of PSROC 2018 (2018)                 
-* 1st at Project Competition Award, Department of Physics, National Dong Hwa University (2017)  
-* College Student Research Scholarship, National Science Council (2017)  
-* Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
+* 🏆 [Oral presentation Award](https://tps2020.conf.tw/site/news_show.aspx?sid=1312&lang=en&pid=220), Physics Society of Taiwan (2020)     
+* 🥇 [Best Bachelor Thesis Award](https://www.ps-taiwan.org/tw/modules/news/article.php?storyid=70), Physics Society of Taiwan (2019)     
+* 🏆 Academia Sinica Chau-Ting Chang Summer Research Scholarship (2018)          
+* 🏆 Student Paper Award,  Annual Meeting of PSROC 2018 (2018)                 
+* 🥇 1st at Project Competition Award, Department of Physics, National Dong Hwa University (2017)  
+* 🏆 College Student Research Scholarship, National Science Council (2017)  
+* 🥇 Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
 ### Publication : Peer-reviewed Journal  
 <!---
@@ -139,7 +139,25 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
 
 
 ### Manuscript (Mostly in submission)
+* [Hybrid Parameterized Quantum States for Variational Quantum Learning](https://arxiv.org/abs/2505.16676)  
+***Chen-Yu Liu***  
+arXiv preprint, arXiv: 2505.16676 (2025)   
 
+* [Quantum Walks-Based Adaptive Distribution Generation with Efficient CUDA-Q Acceleration](https://arxiv.org/abs/2504.13532)  
+Yen-Jui Chang, Wei-Ting Wang, ***Chen-Yu Liu***, Yun-Yuan Wang, Ching-Ray Chang  
+arXiv preprint, arXiv: 2505.13532 (2025)  
+
+* [Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](https://arxiv.org/abs/2505.09395)  
+***Chen-Yu Liu***, Kuan-Cheng Chen, Yi-Chien Chen, Samuel Yen-Chi Chen, Wei-Hao Huang, Wei-Jia Huang, Yen-Jui Chang  
+arXiv preprint, arXiv: 2505.09395 (2025)  
+
+* [Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation](https://arxiv.org/abs/2505.09653)  
+Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang, Wei-Hao Huang  
+arXiv preprint, arXiv: 2505.09653 (2025)  
+
+* [Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing](https://arxiv.org/abs/2505.08474)  
+Kuan-Cheng Chen, ***Chen-Yu Liu***, Yu Shang, Felix Burt, Kin K. Leung  
+arXiv preprint, arXiv: 2505.08474 (2025)  
 
 * [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen  
@@ -156,7 +174,6 @@ arXiv preprint, arXiv: 2208.03283 (2022)
 * [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993)  
 ***Chen-Yu Liu***  
 arXiv preprint, arXiv: 1806.09993 (2018)
-
 
 
 
