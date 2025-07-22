@@ -44,6 +44,10 @@ Machine Learning: Science and Technology (2024)
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
 Quantum Information Processing (2024)
 --->
+* [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
+***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
+Quantum Machine Intelligence (2025)
+
 * [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
 ***Chen-Yu Liu***, Daw-Wei Wang  
 Physical Review B 103, 205107 (2021)
@@ -162,10 +166,6 @@ arXiv preprint, arXiv: 2505.08474 (2025)
 * [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen  
 arXiv preprint, arXiv: 2406.06445 (2024)
-
-* [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
-***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
-arXiv preprint, arXiv: 2405.11304 (2024)
 
 * [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
