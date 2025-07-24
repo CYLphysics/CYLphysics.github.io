@@ -67,6 +67,18 @@ ICLR 2025 DeLTa Workshop (2025)
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 The Thirteenth International Conference on Learning Representations (ICLR) (2025)  
 
+* [Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](https://arxiv.org/abs/2505.09395)  
+***Chen-Yu Liu***, Kuan-Cheng Chen, Yi-Chien Chen, Samuel Yen-Chi Chen, Wei-Hao Huang, Wei-Jia Huang, Yen-Jui Chang  
+IEEE International Conference on Quantum Computing and Engineering (QCE) (2025)
+
+* [Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation](https://arxiv.org/abs/2505.09653)  
+Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang, Wei-Hao Huang  
+IEEE International Conference on Quantum Computing and Engineering (QCE) (2025)
+
+* [Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing](https://arxiv.org/abs/2505.08474)  
+Kuan-Cheng Chen, ***Chen-Yu Liu***, Yu Shang, Felix Burt, Kin K. Leung  
+IEEE International Conference on Quantum Computing and Engineering (QCE) (2025)  
+
 * [Programming Variational Quantum Circuits with Quantum-Train Agent](https://arxiv.org/abs/2412.01173)  
 ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang  
 International Conference on Quantum Communications, Networking, and Computing (QCNC) (2025)  
@@ -150,18 +162,6 @@ arXiv preprint, arXiv: 2505.16676 (2025)
 * [Quantum Walks-Based Adaptive Distribution Generation with Efficient CUDA-Q Acceleration](https://arxiv.org/abs/2504.13532)  
 Yen-Jui Chang, Wei-Ting Wang, ***Chen-Yu Liu***, Yun-Yuan Wang, Ching-Ray Chang  
 arXiv preprint, arXiv: 2505.13532 (2025)  
-
-* [Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](https://arxiv.org/abs/2505.09395)  
-***Chen-Yu Liu***, Kuan-Cheng Chen, Yi-Chien Chen, Samuel Yen-Chi Chen, Wei-Hao Huang, Wei-Jia Huang, Yen-Jui Chang  
-arXiv preprint, arXiv: 2505.09395 (2025)  
-
-* [Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation](https://arxiv.org/abs/2505.09653)  
-Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang, Wei-Hao Huang  
-arXiv preprint, arXiv: 2505.09653 (2025)  
-
-* [Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing](https://arxiv.org/abs/2505.08474)  
-Kuan-Cheng Chen, ***Chen-Yu Liu***, Yu Shang, Felix Burt, Kin K. Leung  
-arXiv preprint, arXiv: 2505.08474 (2025)  
 
 * [Parallel Quantum Local Search via Evolutionary Mechanism](https://arxiv.org/abs/2406.06445)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen  
