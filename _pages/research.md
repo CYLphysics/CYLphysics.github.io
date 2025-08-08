@@ -44,9 +44,9 @@ Machine Learning: Science and Technology (2024)
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
 Quantum Information Processing (2024)
 --->
-* [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
+* [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://link.springer.com/article/10.1007/s42484-025-00305-0)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
-Quantum Machine Intelligence (2025)
+Quantum Machine Intelligence 7, 80 (2025) 
 
 * [Random sampling neural network for quantum many-body problems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.205107)  
 ***Chen-Yu Liu***, Daw-Wei Wang  
