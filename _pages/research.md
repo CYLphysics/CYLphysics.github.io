@@ -60,14 +60,14 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### Publication : Peer-reviewed Conference Paper 
+* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://openreview.net/forum?id=bB0OKNpznp)  
+***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
+The Thirteenth International Conference on Learning Representations (ICLR) (2025)
+
 * [Frame Generation in Hilbert Space: Generative Interpolation of Measurement Data for Quantum Parameter Adaptation
 ](https://openreview.net/forum?id=JNhTrqu39R)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen, Samuel Yen-Chi Chen, Huang wei hao, Wei-Jia Huang, Yen Jui Chang  
 ICLR 2025 DeLTa Workshop (2025)
-
-* [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://openreview.net/forum?id=bB0OKNpznp)  
-***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
-The Thirteenth International Conference on Learning Representations (ICLR) (2025)  
 
 * [Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting](https://arxiv.org/abs/2505.09395)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen, Yi-Chien Chen, Samuel Yen-Chi Chen, Wei-Hao Huang, Wei-Jia Huang, Yen-Jui Chang  
