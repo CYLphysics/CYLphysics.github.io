@@ -11,6 +11,8 @@ header:
 ### Achievement  
 
 #### 2024 - 2025
+* 🥇 [IEEE QTC Distinguished Technical Paper Award](https://qce.quantum.ieee.org/2025/qtc-award-winners/), IEEE QCE 2025
+* 🥇 [Best Technical Paper Award](https://qce.quantum.ieee.org/2025/wp-content/uploads/sites/12/2025/08/QCE25-Technical-Paper-Sessions.pdf?nocache=53) * 3, IEEE QCE 2025
 * 🏆 [Special mentions](https://www.linkedin.com/posts/quandela_perceval-quest-activity-7318636893607219200-KDxw/), Quandela Perceval QML Competition 2025 
 * 🥉[Third Place Prize](https://www.pasqal.com/events/the-blaise-pascal-quantum-challenge-2025-highlights-winners/) (out of 137 teams), The Blaise Pascal Quantum Challenge 2025  
 * 🏆 ICTC 2024 Best AI Paper Award (arXiv:2409.02763)  
