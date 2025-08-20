@@ -157,6 +157,10 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
 
 
 ### Manuscript (Mostly in submission)
+* [Quantum Relational Knowledge Distillation](https://arxiv.org/abs/2508.13054)  
+***Chen-Yu Liu***, Kuan-Cheng Chen, Keisuke Murota, Samuel Yen-Chi Chen, Enrico Rinaldi  
+arXiv preprint, arXiv: 2508.13054 (2025)  
+
 * [Hybrid Parameterized Quantum States for Variational Quantum Learning](https://arxiv.org/abs/2505.16676)  
 ***Chen-Yu Liu***  
 arXiv preprint, arXiv: 2505.16676 (2025)   
