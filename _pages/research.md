@@ -60,6 +60,10 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### Publication : Peer-reviewed Conference Paper 
+* [Quantum Relational Knowledge Distillation](https://arxiv.org/abs/2508.13054)  
+***Chen-Yu Liu***, Kuan-Cheng Chen, Keisuke Murota, Samuel Yen-Chi Chen, Enrico Rinaldi  
+NeurIPS 2025 UniReps Workshop (2025)  
+
 * [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://openreview.net/forum?id=bB0OKNpznp)  
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 The Thirteenth International Conference on Learning Representations (ICLR) (2025)
@@ -157,9 +161,6 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
 
 
 ### Manuscript (Mostly in submission)
-* [Quantum Relational Knowledge Distillation](https://arxiv.org/abs/2508.13054)  
-***Chen-Yu Liu***, Kuan-Cheng Chen, Keisuke Murota, Samuel Yen-Chi Chen, Enrico Rinaldi  
-arXiv preprint, arXiv: 2508.13054 (2025)  
 
 * [Hybrid Parameterized Quantum States for Variational Quantum Learning](https://arxiv.org/abs/2505.16676)  
 ***Chen-Yu Liu***  
