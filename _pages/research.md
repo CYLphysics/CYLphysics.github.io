@@ -185,6 +185,10 @@ arXiv preprint, arXiv: 1806.09993 (2018)
 
 
 ### Talk
+#### 2025
+* [On the Intersection of Quantum Computing and Modern ML: PEFT, Knowledge Distillation, and Single-Shot Inference](https://www.linkedin.com/feed/update/urn:li:activity:7378500564797702144/)  
+QC3 Distinguished Lecture Series, Quantum Communications and Computing Centre, Memorial University, Canada.
+
 #### 2023
 * Machine Learninig and Quantum Computation  
 ***Chen-Yu Liu***  
