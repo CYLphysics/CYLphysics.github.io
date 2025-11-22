@@ -7,22 +7,22 @@ header:
   image: /assets/images/rsnn.png
 ---
 
-Chen-Yu Liu is a Research Scientist at Quantinuum and a Ph.D. candidate in Applied Physics at National Taiwan University, advised by Prof. Hsi-Sheng Goan. He specializes in quantum computing, quantum machine learning, and parameter-efficient learning techniques. His research focuses on developing hybrid quantum-classical algorithms such as Quantum Parameter Adaptation (QPA) and Quantum-Train (QT), which leverage quantum computing to enhance neural network training and model compression. He has published his work at leading AI and quantum computing conferences, including ICLR, ICASSP, IJCNN, QCE, ICTC, and QCNC, contributing to advancements in quantum-enhanced AI models and efficient learning strategies. Previously, he interned at Hon Hai (Foxconn) Research Institute, Jij, and Entropica Labs, where he explored practical quantum algorithms for deep learning and optimization. His long-term goal is to bridge the gap between quantum and classical machine learning, enabling scalable and resource-efficient quantum AI solutions.
+Chen-Yu Liu is a Research Scientist at Quantinuum and holds a Ph.D. in Applied Physics from National Taiwan University (NTU), obtained in November 2025 under the supervision of Prof. Hsi-Sheng Goan. He specializes in quantum computing, quantum machine learning, and parameter-efficient learning techniques. His research focuses on developing hybrid quantum-classical algorithms such as Quantum Parameter Adaptation (QPA) and Quantum-Train (QT), which leverage quantum computation to enhance neural network training and model compression. He has published his work at leading AI and quantum computing venues—including ICLR, ICASSP, IJCNN, QCE, ICTC, and QCNC, advancing quantum-enhanced AI models and scalable learning strategies. Before joining Quantinuum, he interned at the Hon Hai (Foxconn) Research Institute, Jij, and Entropica Labs, where he worked on practical quantum algorithms for deep learning and optimization. His long-term goal is to bridge quantum and classical machine learning, enabling scalable, resource-efficient quantum-AI solutions.
 
 ## Background
 
-* PhD in Applied Physics, National Taiwan University (2021-current)
+* PhD in Applied Physics, National Taiwan University (2021-2025)
 * MS in Physics, National Tsing Hua University (2018-2020) 
 * BS in Physics, National Dong Hwa University (2014-2018)
 
 ## Experience
 
-### ML Research Scientist, Quantum for AI
+### Research Scientist, Quantum for AI
 Quantinuum (2025-Current)  
 <img src="/assets/images/quantinuum_logo.png" width="200px" align="center">
 
 
-### Research Intern  
+### Research Scientist (Part-time)  
 Quantum Computing Research Center, Hon Hai Research Institute (2022-2025)  
 <img src="/assets/images/hh.png" width="200px" align="center">
 
