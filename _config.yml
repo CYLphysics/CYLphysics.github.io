@@ -55,11 +55,10 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 author:
   name   : "Chen-Yu Liu"
   avatar : "/assets/images/bio-photo2.jpg"
-  bio    : "Currently a Research Scientist at Quantinuum, and a Ph.D. candidate at the Graduate Institute of Applied Physics, National Taiwan University. "
+  bio    : "Currently a Research Scientist at Quantinuum, and holds a Ph.D. in Applied Physics from National Taiwan University. "
   links:
     - label: "Google Scholar"
       icon: "fab fa-google"
