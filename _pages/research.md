@@ -46,6 +46,10 @@ Machine Learning: Science and Technology (2024)
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
 Quantum Information Processing (2024)
 --->
+* [Quantum stochastic walks for portfolio optimization: theory and implementation on financial networks](https://www.nature.com/articles/s44335-025-00050-4)  
+Yen Jui Chang, Wei-Ting Wang, Yun-Yuan Wang, ***Chen-Yu Liu***, Kuan-Cheng Chen, Ching-Ray Chang  
+npj Unconventional Computing 3 (1), 7 (2026)
+
 * [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://link.springer.com/article/10.1007/s42484-025-00305-0)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 Quantum Machine Intelligence 7, 80 (2025) 
