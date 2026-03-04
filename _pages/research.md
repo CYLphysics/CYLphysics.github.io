@@ -64,7 +64,7 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### Publication : Peer-reviewed Conference Paper 
-* [Quantum Relational Knowledge Distillation](https://arxiv.org/abs/2508.13054)  
+* [Quantum Relational Knowledge Distillation](https://proceedings.mlr.press/v322/liu26b.html)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen, Keisuke Murota, Samuel Yen-Chi Chen, Enrico Rinaldi  
 NeurIPS 2025 UniReps Workshop (2025)  
 
