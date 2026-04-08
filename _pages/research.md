@@ -50,6 +50,10 @@ Quantum Information Processing (2024)
 Yen Jui Chang, Wei-Ting Wang, Yun-Yuan Wang, ***Chen-Yu Liu***, Kuan-Cheng Chen, Ching-Ray Chang  
 npj Unconventional Computing 3 (1), 7 (2026)
 
+* [Quantum walks–based adaptive distribution generation with efficient CUDA-Q acceleration](https://link.springer.com/article/10.1007/s42484-026-00391-8)  
+Yen Jui Chang, Wei-Ting Wang, ***Chen-Yu Liu***, Yun-Yuan Wang, Ching-Ray Chang  
+Quantum Machine Intelligence 8, 42 (2026)  
+
 * [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://link.springer.com/article/10.1007/s42484-025-00305-0)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
 Quantum Machine Intelligence 7, 80 (2025) 
