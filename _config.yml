@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Chen-Yu Liu"
   avatar : "/assets/images/bio-photo2.jpg"
-  bio    : "To infinity & beyond."
+  bio    : "Quantum AI Scientist."
   links:
     - label: "Google Scholar"
       icon: "fab fa-google"
