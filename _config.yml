@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Chen-Yu Liu"
   avatar : "/assets/images/bio-photo2.jpg"
-  bio    : "Currently a Research Scientist at Quantinuum, and holds a Ph.D. in Applied Physics from National Taiwan University. "
+  bio    : "To infinity & beyond."
   links:
     - label: "Google Scholar"
       icon: "fab fa-google"
