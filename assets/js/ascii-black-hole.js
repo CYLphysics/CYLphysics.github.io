@@ -130,17 +130,22 @@ function drawUfos(){
  canvas.dataset.ufos=String(flights.length);canvas.dataset.sparks=String(bursts.length);
  canvas.dataset.launches=String(launches);canvas.dataset.impacts=String(impacts);
 }
-// Ignore links, controls, text selection, and touch scrolling rather than stealing their clicks.
-let pointerStart=null;
+// Use the browser's tap/click recognition, including Android Chrome's touch slop.
+// Touch scrolling and pinching do not produce clicks; do not prevent their defaults.
 const ignored='a,button,input,select,textarea,label,summary,details,header,footer,.introduction,[role="button"]';
+let mouseStart=null,mouseDragged=false;
 document.addEventListener('pointerdown',event=>{
- pointerStart=event.isPrimary!==false&&event.button===0&&!event.target.closest(ignored)?{x:event.clientX,y:event.clientY,id:event.pointerId}:null;
+ mouseStart=event.pointerType==='mouse'&&event.button===0?{x:event.clientX,y:event.clientY}:null;
+ mouseDragged=false;
 });
-document.addEventListener('pointercancel',()=>{pointerStart=null;});
-document.addEventListener('pointerup',event=>{
- const start=pointerStart;pointerStart=null;
- if(!start||event.pointerId!==start.id||event.target.closest(ignored)||Math.hypot(event.clientX-start.x,event.clientY-start.y)>8)return;
- if(window.getSelection()?.toString())return;
+document.addEventListener('pointermove',event=>{
+ if(mouseStart&&event.pointerType==='mouse'&&Math.hypot(event.clientX-mouseStart.x,event.clientY-mouseStart.y)>8)mouseDragged=true;
+},{passive:true});
+document.addEventListener('pointercancel',()=>{mouseStart=null;mouseDragged=false;});
+document.addEventListener('click',event=>{
+ const dragged=mouseDragged;mouseStart=null;mouseDragged=false;
+ if(dragged||event.button>0||event.target.closest(ignored)||window.getSelection()?.toString())return;
+ if(!Number.isFinite(event.clientX)||!Number.isFinite(event.clientY))return;
  launchUfo(clamp(event.clientX/innerWidth,0,1),clamp(event.clientY/innerHeight,0,1));
 });
 get('launch').addEventListener('click',()=>launchUfo(.18,.32));
