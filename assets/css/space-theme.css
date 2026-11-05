@@ -1,14 +1,5 @@
 /* Match the introduction without replacing the theme's page layouts. */
-:root {
-  color-scheme: dark;
-  --space-bg: #25303c;
-  --space-ink: #eee8e2;
-  --space-muted: #a7a6b2;
-  --space-accent: #eebca4;
-  --space-line: #ffffff29;
-  --space-panel: #1d2732;
-  --space-font: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
-}
+:root { --space-font: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
 
 html { background: var(--space-bg); font-size: 16px; }
 body {
