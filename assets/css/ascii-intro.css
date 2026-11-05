@@ -28,3 +28,6 @@ input[type=range]{width:100%;accent-color:var(--accent);margin:12px 0}input[type
 
 @media(max-width:600px){.site-header{padding:20px 7vw}nav{gap:16px;font-size:11px}main{padding:clamp(250px,37svh,420px) 7vw 30px}.universe::after{background:linear-gradient(0deg,rgb(var(--space-rgb) / .96) 0%,rgb(var(--space-rgb) / .75) 30%,rgb(var(--space-rgb) / 0) 70%)}.eyebrow{font-size:9px;letter-spacing:.7px;max-width:310px}h1{letter-spacing:-1px}h1 span{display:block;margin:12px 0 0;font-size:20px}.bio{font-size:13px}.social-links{gap:22px;font-size:11px}.site-footer{padding:14px 7vw 22px;align-items:flex-start;flex-direction:column;gap:12px}.appearance{width:100%;justify-content:space-between}.settings{width:min(310px,86vw)}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+#ufo-canvas{position:absolute;inset:0;z-index:1}
+.launch-ufo{margin-top:18px;border:1px solid var(--line);border-radius:5px;padding:8px 12px;color:var(--ink)}

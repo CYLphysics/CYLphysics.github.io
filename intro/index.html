@@ -26,6 +26,7 @@
   <main>
     <div class="universe" aria-hidden="true">
       <canvas>Animated ASCII black hole.</canvas>
+      <canvas id="ufo-canvas"></canvas>
     </div>
     <section class="introduction" id="introduction" aria-labelledby="name">
       <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> QUANTUM COMPUTING · MACHINE LEARNING · OPTIMIZATION</p>
@@ -56,7 +57,8 @@
             <label>Rendering<select id="space-style"><option value="tiles">Colour cells</option><option value="ascii">Characters only</option></select></label>
             <label>Detail<select id="space-detail"><option value="128">Bold</option><option value="176" selected>Balanced</option><option value="240">Fine</option></select></label>
           </div>
-          <p class="settings-note">Preferences stay in this browser.</p>
+          <button id="space-launch" class="launch-ufo" type="button">Launch UFO</button>
+          <p class="settings-note">Click or tap empty space to launch an ASCII UFO. Preferences stay in this browser.</p>
         </div>
       </details>
     </div>
