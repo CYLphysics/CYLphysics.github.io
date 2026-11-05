@@ -83,7 +83,7 @@ function flightPoint(f,p,g){
 function launchUfo(u,v){
  if(flights.length>=8)flights.shift();
  const g=geometry(),distance=Math.hypot(u*W-g.centerX,v*H-g.centerY);
- flights.push({u,v,born:time,duration:clamp(1.8+distance/110,2,5)});
+ flights.push({u,v,born:time,duration:clamp(1.8+distance/110,2,5),hasMessage:Math.random()<.3});
  launches++;
  status.textContent=paused?'UFO launched. Play the animation to watch it fall in.':'UFO launched into the black hole’s gravity.';
  draw();schedule();
@@ -115,6 +115,17 @@ function drawUfos(){
   sprite.forEach((line,row)=>{[...line].forEach((glyph,col)=>{
    if(glyph!==' ')fx.fillText(glyph,point.x*unit+(col-3)*cw,point.y*unit+(row-1.5)*ch);
   });});
+  if(f.hasMessage){
+   const message='see you in another universe...';
+   fx.font=`500 ${10*dpr}px monospace`;
+   fx.globalAlpha=.9*clamp((1-p)/.25,0,1);
+   const half=fx.measureText(message).width/2,pad=8*dpr;
+   const x=clamp(point.x*unit,half+pad,effects.width-half-pad);
+   const y=clamp(point.y*unit+24*dpr,pad,effects.height-pad);
+   fx.fillStyle=light?'#294552':'#d0e9ed';
+   fx.fillText(message,x,y);
+   fx.globalAlpha=1;
+  }
  }
  for(let i=bursts.length-1;i>=0;i--){
   const b=bursts[i],p=(time-b.born)/.85;
