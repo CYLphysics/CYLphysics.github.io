@@ -3,8 +3,6 @@ layout: single #splash #single
 classes: wide
 permalink: /research/
 title: ""
-header:
-  image: /assets/images/LSSA.png
 ---
 
 

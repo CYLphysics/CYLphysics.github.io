@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en" data-tone="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Chen-Yu Liu — quantum computing, machine learning, and optimization. Research Scientist at Quantinuum, London.">
+  <meta name="theme-color" content="#25303c">
+  <title>Chen-Yu Liu 劉宸銉 · Quantum & AI</title>
+  <link rel="stylesheet" href="../assets/css/ascii-intro.css">
+  <script src="../assets/js/ascii-black-hole.js" defer></script>
+</head>
+<body id="black-hole-custom">
+  <a class="skip-link" href="#introduction">Skip to introduction</a>
+  <header class="site-header">
+    <a class="wordmark" href="../" aria-label="Chen-Yu Liu — existing homepage">CYL<span class="wordmark-dot">.</span></a>
+    <nav aria-label="Main navigation">
+      <a href="./" aria-current="page">Intro</a>
+      <a href="../research/">Research</a>
+      <a href="../about/">About</a>
+      <a href="../">Home</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="universe" aria-hidden="true">
+      <canvas>Animated ASCII black hole.</canvas>
+    </div>
+    <section class="introduction" id="introduction" aria-labelledby="name">
+      <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> QUANTUM COMPUTING · MACHINE LEARNING · OPTIMIZATION</p>
+      <h1 id="name">Chen-Yu Liu <span lang="zh-Hant">劉宸銉</span></h1>
+      <p class="bio">I’m a research scientist at <a href="https://www.quantinuum.com/">Quantinuum</a> in London, working at the intersection of quantum computing and machine learning.</p>
+      <div class="social-links" aria-label="Academic and social profiles">
+        <a href="https://scholar.google.com/citations?user=tp83gZMAAAAJ">Google Scholar <span aria-hidden="true">↗</span></a>
+        <a href="https://github.com/CYLphysics">GitHub <span aria-hidden="true">↗</span></a>
+        <a href="https://www.linkedin.com/in/chen-yu-liu-549289194/">LinkedIn <span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>GRAVITY, WRITTEN IN CHARACTERS.</p>
+    <div class="appearance">
+      <button id="space-play" type="button" aria-pressed="false">Pause animation</button>
+      <details>
+        <summary>Appearance <span aria-hidden="true">＋</span></summary>
+        <div class="settings">
+          <h2>Your corner of the universe</h2>
+          <label for="space-angle">Angle <output id="space-angle-value" for="space-angle">−11°</output></label>
+          <input id="space-angle" type="range" min="-180" max="180" value="-11">
+          <div class="check-row">
+            <label><input id="space-stars" type="checkbox" checked> Stars</label>
+            <label><input id="space-galaxies" type="checkbox" checked> Galaxies</label>
+          </div>
+          <div class="select-row">
+            <label>Rendering<select id="space-style"><option value="tiles">Colour cells</option><option value="ascii">Characters only</option></select></label>
+            <label>Detail<select id="space-detail"><option value="128">Bold</option><option value="176" selected>Balanced</option><option value="240">Fine</option></select></label>
+          </div>
+          <p class="settings-note">Preferences stay in this browser.</p>
+        </div>
+      </details>
+    </div>
+  </footer>
+  <p id="space-status" class="sr-only" aria-live="polite"></p>
+  <noscript><p class="noscript">Enable JavaScript to see the animated ASCII black hole.</p></noscript>
+</body>
+</html>
