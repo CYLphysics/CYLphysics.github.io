@@ -38,7 +38,6 @@
   </main>
 
   <footer class="site-footer">
-    <p>GRAVITY, WRITTEN IN CHARACTERS.</p>
     <div class="appearance">
       <button id="space-play" type="button" aria-pressed="false">Pause animation</button>
       <details>
@@ -47,6 +46,8 @@
           <h2>Your corner of the universe</h2>
           <label for="space-angle">Angle <output id="space-angle-value" for="space-angle">−11°</output></label>
           <input id="space-angle" type="range" min="-180" max="180" value="-11">
+          <label for="space-colour">Background <output id="space-colour-value" for="space-colour">#25303C</output></label>
+          <input id="space-colour" type="color" value="#25303c">
           <div class="check-row">
             <label><input id="space-stars" type="checkbox" checked> Stars</label>
             <label><input id="space-galaxies" type="checkbox" checked> Galaxies</label>
