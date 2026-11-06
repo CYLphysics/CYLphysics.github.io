@@ -62,7 +62,8 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
-### Selected Publication : Peer-reviewed Conference Paper (Latest full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tp83gZMAAAAJ))  
+### Selected Publication : Peer-reviewed Conference Paper (Latest full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tp83gZMAAAAJ))
+{: #publication--peer-reviewed-conference-paper}
 
 * [Generative IQP Circuit Learning with Physics-Informed Latent Initialization](https://arxiv.org/abs/2607.28866)  
 ***Chen-Yu Liu***, Leonardo Placidi, Marco Ballarin, Enrico Rinaldi  
