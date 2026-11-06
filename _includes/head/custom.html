@@ -4,3 +4,8 @@
 
 <link rel="stylesheet" href="{{ "/assets/css/light-switch.css" | relative_url }}">
 <script src="{{ "/assets/js/light-switch.js" | relative_url }}"></script>
+
+{% if page.quantum_research %}
+<link rel="stylesheet" href="{{ '/assets/css/research-quantum.css' | relative_url }}">
+<script src="{{ '/assets/js/research-quantum.js' | relative_url }}" defer></script>
+{% endif %}

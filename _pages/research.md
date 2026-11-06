@@ -1,9 +1,14 @@
 ---
 layout: single #splash #single
-classes: wide
+classes: wide research-quantum-page
+author_profile: false
+quantum_research: true
 permalink: /research/
 title: ""
 ---
+
+{% include research-quantum.html %}
+
 
 
 ### Achievement  
