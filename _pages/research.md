@@ -40,15 +40,7 @@ title: ""
 * 🥇 Outstanding Academic Award*4 (for 5% students), National Dong Hwa University (2016-2017)  
 
 ### Publication : Peer-reviewed Journal  
-<!---
-* [Quantum-Train: Rethinking Hybrid Quantum-Classical Machine Learning in the Model Compression Perspective](https://arxiv.org/abs/2405.11304)  
-***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
-Machine Learning: Science and Technology (2024)  
 
-* [Hybrid Gate-Based and Annealing Quantum Computing for Large-Size Ising Problems](https://arxiv.org/abs/2208.03283)  
- ***Chen-Yu Liu***, Hsi-Sheng Goan  
-Quantum Information Processing (2024)
---->
 * [Quantum stochastic walks for portfolio optimization: theory and implementation on financial networks](https://www.nature.com/articles/s44335-025-00050-4)  
 Yen Jui Chang, Wei-Ting Wang, Yun-Yuan Wang, ***Chen-Yu Liu***, Kuan-Cheng Chen, Ching-Ray Chang  
 npj Unconventional Computing 3 (1), 7 (2026)
@@ -81,7 +73,7 @@ NeurIPS 2025 UniReps Workshop (2025)
 
 * [A Quantum Circuit-Based Compression Perspective for Parameter-Efficient Learning](https://openreview.net/forum?id=bB0OKNpznp)  
 ***Chen-Yu Liu***, Chao-Han Huck Yang, Min-Hsiu Hsieh, Hsi-Sheng Goan  
-The Thirteenth International Conference on Learning Representations (ICLR) (2025)
+ICLR (2025)
 
 * [Frame Generation in Hilbert Space: Generative Interpolation of Measurement Data for Quantum Parameter Adaptation
 ](https://openreview.net/forum?id=JNhTrqu39R)  
