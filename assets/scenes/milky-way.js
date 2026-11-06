@@ -129,7 +129,7 @@ for(const el of [angle,colour,vividness]){el.addEventListener('input',()=>{label
 for(const el of [style,detail,starsToggle,galaxiesToggle])el.addEventListener('change',()=>{draw();save();});
 new IntersectionObserver(e=>{visible=e[0].isIntersecting;last=0;schedule();}).observe(canvas);
 window.ASCIIWallpaper={
- configure(s){s=window.SceneSettings.normalize(s);fps=s.fps;colour.value=s.background;angle.value=String(s.angle);vividness.value=String(s.vividness??70);starsToggle.checked=!!s.stars;galaxiesToggle.checked=!!s.galaxies;style.value=s.style;detail.value=String(s.detail);paused=!!s.paused;last=0;labels();draw();schedule();},
+ configure(s){s=window.SceneSettings.normalize(s);fps=s.fps;colour.value=s.background;angle.value=String(s.angle);vividness.value=String(s.vividness??55);starsToggle.checked=!!s.stars;galaxiesToggle.checked=!!s.galaxies;style.value=s.style;detail.value=String(s.detail);paused=!!s.paused;last=0;labels();draw();schedule();},
  launch(){},state(){return {...canvas.dataset,scene:'milky-way',paused,fps,light:window.SceneSettings.isLight(colour.value),background:colour.value,angle:+angle.value,vividness:+vividness.value,width:canvas.width,height:canvas.height};}
 };
 window.addEventListener('resize',()=>{resizeScene();draw();});document.addEventListener('visibilitychange',()=>{last=0;schedule();});
