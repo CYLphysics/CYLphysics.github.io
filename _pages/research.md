@@ -62,7 +62,8 @@ Physical Review B 103, 205107 (2021)
 Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
-### Publication : Peer-reviewed Conference Paper 
+### Selected Publication : Peer-reviewed Conference Paper (Latest full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=tp83gZMAAAAJ))  
+
 * [Generative IQP Circuit Learning with Physics-Informed Latent Initialization](https://arxiv.org/abs/2607.28866)  
 ***Chen-Yu Liu***, Leonardo Placidi, Marco Ballarin, Enrico Rinaldi  
 NeurIPS 2026 Symmetry and Geometry in Neural Representations Workshop (2026)  
@@ -84,9 +85,9 @@ ICLR 2025 DeLTa Workshop (2025)
 ***Chen-Yu Liu***, Kuan-Cheng Chen, Yi-Chien Chen, Samuel Yen-Chi Chen, Wei-Hao Huang, Wei-Jia Huang, Yen-Jui Chang  
 IEEE International Conference on Quantum Computing and Engineering (QCE) (2025)
 
-* [Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation](https://arxiv.org/abs/2505.09653)  
+<!---* [Differentiable Quantum Architecture Search in Quantum-Enhanced Neural Network Parameter Generation](https://arxiv.org/abs/2505.09653)  
 Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kuan-Cheng Chen, Wei-Jia Huang, Yen-Jui Chang, Wei-Hao Huang  
-IEEE International Conference on Quantum Computing and Engineering (QCE) (2025)
+IEEE International Conference on Quantum Computing and Engineering (QCE) (2025) 
 
 * [Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing](https://arxiv.org/abs/2505.08474)  
 Kuan-Cheng Chen, ***Chen-Yu Liu***, Yu Shang, Felix Burt, Kin K. Leung  
@@ -98,13 +99,13 @@ International Conference on Quantum Communications, Networking, and Computing (Q
 
 * [Quantum Local Search for Traveling Salesman Problem with Path-Slicing Strategy](https://arxiv.org/abs/2407.13616)  
 ***Chen-Yu Liu***, Hiromichi Matsuyama, Wei-hao Huang, Yu Yamashiro  
-International Conference on Quantum Communications, Networking, and Computing (QCNC) (2025)  
+International Conference on Quantum Communications, Networking, and Computing (QCNC) (2025) -->
 
-* [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
+<!---* * [Quantum-Train with Tensor Network Mapping Model and Distributed Circuit Ansatz](https://arxiv.org/abs/2409.06992)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
-IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)  -->
 
-* [Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection](https://arxiv.org/abs/2410.09250)   
+<!---* * [Quantum-Trained Convolutional Neural Network for Deepfake Audio Detection](https://arxiv.org/abs/2410.09250)   
 Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Samuel Yen-Chi Chen, Kuan-Cheng Chen  
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025)   
 
@@ -114,13 +115,13 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASS
 
 * [Quantum-Train-Based Distributed Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2412.08845)  
 Kuan-Cheng Chen, Samuel Yen-Chi Chen, ***Chen-Yu Liu***, Kin K Leung  
-IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (SSCI) (2025)   
+IEEE Symposium for Multidisciplinary Computational Intelligence Incubators (SSCI) (2025)  -->
 
 * [Federated Quantum-Train with Batched Parameter Generation](https://arxiv.org/abs/2409.02763)  
 ***Chen-Yu Liu***, Samuel Yen-Chi Chen  
 International Conference on ICT Convergence (ICTC) (2024) 
 
-* [Introduction to Quantum-Train Toolkit](https://github.com/Hon-Hai-Quantum-Computing/QuantumTrain)  
+<!---* * [Introduction to Quantum-Train Toolkit](https://github.com/Hon-Hai-Quantum-Computing/QuantumTrain)  
 ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Wei-Jia Huang, Min-Hsiu Hsieh   
  IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
 
@@ -134,13 +135,13 @@ Chu-Hsuan Abraham Lin, ***Chen-Yu Liu***, Kuan-Cheng Chen
 
 * [Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware](https://arxiv.org/abs/2407.17325)  
 Kuan-Cheng Chen, Xiatian Xu, Felix Burt, ***Chen-Yu Liu***   
- IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)
+ IEEE International Conference on Quantum Computing and Engineering (QCE) (2024) -->
 
 * [Training Classical Neural Networks by Quantum Machine Learning](https://arxiv.org/abs/2402.16465)  
 ***Chen-Yu Liu***, En-Jui Kuo, Chu-Hsuan Abraham Lin, Sean Chen, Jason Gemsun Young, Yeong-Jar Chang, Min-Hsiu Hsieh   
  IEEE International Conference on Quantum Computing and Engineering (QCE) (2024)  
 
-* [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
+<!---* * [Quantum-Enhanced Support Vector Machine for Large-Scale Stellar Classification with GPU Acceleration
 ](https://link.springer.com/chapter/10.1007/978-981-97-5609-4_12)  
 Kuan-Cheng Chen, Xiaotian Xu, Henry Makhanov, Hui-Hsuan Chung, ***Chen-Yu Liu***  
 International Conference On Intelligent Computing (ICIC) (2024)  [arXiv](https://arxiv.org/abs/2311.12328)    
@@ -152,7 +153,7 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
 
 * [Learning Quantum Phase Estimation by Variational Quantum Circuits](https://arxiv.org/abs/2311.04690)  
  ***Chen-Yu Liu***, Chu-Hsuan Abraham Lin, Kuan-Cheng Chen  
-  International Joint Conference on Neural Networks (IJCNN) (2024) 
+  International Joint Conference on Neural Networks (IJCNN) (2024) -->
 
 * [Implementation of Trained Factorization Machine Recommendation System on Quantum Annealer](https://arxiv.org/abs/2210.12953)  
 ***Chen-Yu Liu***, Hsin-Yu Wang, Pei-Yen Liao, Ching-Jui Lai, Min-Hsiu Hsieh  
@@ -162,14 +163,14 @@ IEEE International Conference on Quantum Communications, Networking, and Computi
  ***Chen-Yu Liu***, Hsi-Sheng Goan  
  IEEE International Conference on Quantum Computing and Engineering ([QCE](https://ieeexplore.ieee.org/document/10313826)) (2023)  
 
-* [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
+<!---* * [Practical Quantum Search by Variational Quantum Eigensolver on Noisy Intermediate-scale Quantum Hardware](https://arxiv.org/abs/2304.03747)  
  ***Chen-Yu Liu***  
- IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023)
+ IEEE CPS, International Conference on Computational Science and Computational Intelligence (CSCI) (2023) -->
 
 
-### Manuscript (Mostly in submission)
+<!---* ### Manuscript -->
 
-* [Hybrid Parameterized Quantum States for Variational Quantum Learning](https://arxiv.org/abs/2505.16676)  
+<!---* * [Hybrid Parameterized Quantum States for Variational Quantum Learning](https://arxiv.org/abs/2505.16676)  
 ***Chen-Yu Liu***  
 arXiv preprint, arXiv: 2505.16676 (2025)   
 
@@ -187,11 +188,16 @@ arXiv preprint, arXiv: 2208.03283 (2022)
 
 * [Chaotic Motion of Charged Particles around a Weakly Magnetized Kerr-Newman Black Hole](https://arxiv.org/abs/1806.09993)  
 ***Chen-Yu Liu***  
-arXiv preprint, arXiv: 1806.09993 (2018)
+arXiv preprint, arXiv: 1806.09993 (2018) -->
 
 
 
 ### Talk
+
+#### 2026
+* [Toward Generative Quantum Utility](https://fqc-conf.github.io/)  
+Fourth Conference on the Foundations of Quantum Computing, UCL, UK.  
+
 #### 2025
 * [On the Intersection of Quantum Computing and Modern ML: PEFT, Knowledge Distillation, and Single-Shot Inference](https://www.linkedin.com/feed/update/urn:li:activity:7378500564797702144/)  
 QC3 Distinguished Lecture Series, Quantum Communications and Computing Centre, Memorial University, Canada.
@@ -242,4 +248,5 @@ Annual Meeting of the Physical Society of Taiwan,  National Pingtung University,
 * ***Chen-Yu Liu***, Da-Shin Lee, Chi-Yong Lin, [Geodesics of charged particles moving around a Kerr-Newman Black Hole](https://drive.google.com/file/d/1qQLwUdslKWgs5CAEMXKBNlGC0h5Yrzp4/view?usp=sharing),  Annual Meeting of the Physical Society of the Republic of China (Taiwan),  Tamkang University, Taipei, Taiwan. (2017)                    
 --->
 
-Peace                                    
+We live on a 3-brane in warped five-dimensional anti-de Sitter space.
+                                    
