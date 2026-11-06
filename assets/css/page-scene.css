@@ -1,0 +1,18 @@
+/* Scoped openings, with the existing publication and biography content below. */
+.ascii-scene-page .page,.ascii-scene-page .archive { width:100%;padding-right:0;float:none; }
+.ascii-scene-page .page__inner-wrap,.ascii-scene-page .archive { max-width:1100px;margin-inline:auto; }
+.page-scene { margin-bottom:36px;color:var(--space-ink); }
+.page-scene .scene-stage { height:390px;position:relative;overflow:hidden; }
+.page-scene iframe { display:block;width:100%;height:100%;border:0;background:var(--space-bg); }
+.page-scene h1 { margin:0;font-size:clamp(30px,5vw,48px);font-weight:400;line-height:1.3;letter-spacing:-1.5px; }
+.page-scene .scene-subtitle { color:var(--space-muted);font-size:13px;line-height:1.8;margin:12px 0 22px; }
+.page-scene .scene-actions { display:flex;flex-wrap:wrap;align-items:flex-start;gap:12px 22px;font-size:12px; }
+.page-scene button,.page-scene summary { color:var(--space-muted);background:none;border:0;padding:8px 0;font:inherit;cursor:pointer; }
+.page-scene button:hover,.page-scene summary:hover { color:var(--space-ink); }
+.page-scene .scene-settings { background:var(--space-panel);border:1px solid var(--space-line);border-radius:6px;padding:18px;display:grid;gap:16px;width:min(290px,65vw); }
+.page-scene label { display:grid;gap:7px;font-size:12px;color:var(--space-ink); }
+.page-scene .scene-check { display:flex;align-items:center;gap:8px; }
+.page-scene select { width:100%;min-width:0;font:inherit;min-height:36px;color:var(--space-ink);background:var(--space-bg);border:1px solid var(--space-line);border-radius:3px;padding:5px; }
+.page-scene input { accent-color:var(--space-accent);max-width:100%; }
+.page-scene .scene-status { position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%); }
+@media(max-width:600px) { .page-scene .scene-stage { height:290px; } .page-scene button,.page-scene summary { min-height:44px; } .page-scene select { font-size:16px; } }

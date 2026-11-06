@@ -1,9 +1,14 @@
 ---
 layout: single
-classes: wide
+classes: wide ascii-scene-page
+author_profile: false
+ascii_scene: koi
 permalink: /about/
 title: ""
 ---
+
+{% include page-scene.html %}
+
 
 Dr. Chen-Yu Liu is a Research Scientist at [Quantinuum](https://www.quantinuum.com/) (London) and holds a [Ph.D. in Applied Physics](https://www.airitilibrary.com/Article/Detail/U0001-0807251114425003) from National Taiwan University (NTU), obtained in November 2025 under the supervision of Prof. Hsi-Sheng Goan. He specializes in quantum computing, quantum machine learning, and parameter-efficient learning techniques. His research focuses on developing hybrid quantum-classical algorithms such as [Quantum Parameter Adaptation](https://openreview.net/forum?id=bB0OKNpznp) (QPA) and [Quantum-Train](https://link.springer.com/article/10.1007/s42484-025-00305-0) (QT), which leverage quantum computation to enhance neural network training and model compression. He has published his work at leading AI and quantum computing venues—including ICLR, NeurIPS, ICASSP, IJCNN, QCE, and QCNC, advancing quantum-enhanced AI models and scalable learning strategies. Before joining Quantinuum, he interned at the [Hon Hai (Foxconn) Research Institute](https://hhri.foxconn.com/en/center/quantum), [JIJ](https://www.j-ij.com/en), and [Entropica Labs](https://entropicalabs.com/), where he worked on practical quantum algorithms for deep learning and optimization. His long-term goal is to bridge quantum and classical machine learning, enabling scalable, resource-efficient quantum-AI solutions.
 
