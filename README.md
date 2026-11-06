@@ -29,6 +29,6 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 
 ### Animated page openings
 
-Home keeps the post archive and adds the ASCII Milky Way; About keeps the biography and adds an interactive koi pond. The shared light switch controls both scene backgrounds. Appearance and pause choices are stored separately for each scene. Reduced-motion preferences start the scenes paused, and animations suspend outside the viewport or in hidden tabs.
+Home keeps the post archive and adds mixed ASCII sharks (classic, hammerhead, mako and thresher); About keeps the biography and adds an interactive koi pond. The shared light switch controls both scene backgrounds. Appearance and pause choices are stored separately for each scene. Reduced-motion preferences start the scenes paused, and animations suspend outside the viewport or in hidden tabs.
 
 `_includes/page-scene.html` supplies the controls; `assets/js/page-scene.js` connects them to the same-origin renderers in `assets/scenes/`. Each renderer is isolated in its own frame to preserve its coordinate system and avoid changing the surrounding Jekyll page. Attribution is in `assets/scenes/ATTRIBUTION.txt`. The original Home layout continues to handle posts and pagination.

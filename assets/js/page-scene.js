@@ -30,7 +30,7 @@
     pause.textContent = playing ? 'Pause animation' : 'Play animation';
     const background = document.documentElement.dataset.tone === 'light' ? '#e1dbdb' : '#25303b';
     frame.contentWindow?.ASCIIWallpaper?.configure({
-      ...preferences(), background, detail: 176, fps: 20,
+      ...preferences(), sharkKind: 'mixed', background, detail: 176, fps: 20,
       paused: !playing || !visible || document.hidden, desktopClicks: true
     });
   }

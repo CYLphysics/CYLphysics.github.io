@@ -1,3 +1,5 @@
+Sharks: stackedlol/ascii-sharks, revision a0074c16a106f0abc665fe9712ca445f8f98ad8e. Copyright (c) 2026 drewdi. MIT license included in SHARKS-LICENSE.txt. Desktop integration changes include theme backgrounds, bounded simulation dimensions, pause/resume, detail and characters-only rendering.
+
 Koi: Dao-Ho/portfolio, revision 914651c33f254e52bfee9dca5164264c2c33ebfe. https://github.com/Dao-Ho/portfolio and https://www.daoho.dev/. Adapted world.ts, shape.ts and renderer.ts. No explicit reuse license was found at that revision; this is the user's personal experimental adaptation. No MIT license or redistribution rights are claimed for this separate source. Changes include a golden palette, website controls, shared light/dark appearance, bounded canvas dimensions and lifecycle handling. No website analytics or network dependencies are included.
 
 Milky Way artwork derives from the reference images supplied by the user in this project. Original rights remain with their respective owners. ASCII conversion and artistic animation were developed for this project. No scientific fidelity or license grant over the original artwork is claimed.
