@@ -71,6 +71,10 @@ Classical and Quantum Gravity 34 (23), 235008 (2017)
 
 
 ### Publication : Peer-reviewed Conference Paper 
+* [Generative IQP Circuit Learning with Physics-Informed Latent Initialization](https://arxiv.org/abs/2607.28866)  
+***Chen-Yu Liu***, Leonardo Placidi, Marco Ballarin, Enrico Rinaldi  
+NeurIPS 2026 Symmetry and Geometry in Neural Representations Workshop (2026)  
+  
 * [Quantum Relational Knowledge Distillation](https://proceedings.mlr.press/v322/liu26b.html)  
 ***Chen-Yu Liu***, Kuan-Cheng Chen, Keisuke Murota, Samuel Yen-Chi Chen, Enrico Rinaldi  
 NeurIPS 2025 UniReps Workshop (2025)  
