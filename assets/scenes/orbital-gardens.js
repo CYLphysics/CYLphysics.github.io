@@ -226,8 +226,8 @@ function sleepingCat(t){
  for(let i=0;i<3;i++){
   const phase=(t/4+i/3)%1,alpha=Math.sin(phase*Math.PI)*.72;
   const zx=x+8+Math.round(phase*10),zy=y-3-Math.round(phase*16);
-  // A tiny 3×3 bitmap Z; its position and opacity only use simulation time.
-  for(const [dx,dy] of [[0,0],[1,0],[2,0],[1,1],[0,2],[1,2],[2,2]])rect(zx+dx,zy+dy,1,1,ink,alpha);
+  // A tiny 3×5 bitmap Z; its position and opacity only use simulation time.
+  for(const [dx,dy] of [[0,0],[1,0],[2,0],[2,1],[1,2],[0,3],[0,4],[1,4],[2,4]])rect(zx+dx,zy+dy,1,1,ink,alpha);
  }
  emissive=old;
 }
