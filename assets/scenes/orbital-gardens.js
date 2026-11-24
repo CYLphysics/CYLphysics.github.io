@@ -233,6 +233,60 @@ function sleepingCat(t){
  }
  emissive=old;
 }
+// The two upright plush companions: red headbands, silver badges and calico patches.
+const headbandCatLarge=[
+ '...ddd......oo....',
+ '..dddddd...oooo...',
+ '..dddddddddoooo...',
+ '.ddddddddddooooo..',
+ '.rrrrrrrrrrrrrrrr.',
+ 'rrrrrrrrmmgmrrrrrr',
+ 'rrrrrrrrmggmrrrrrr',
+ '.ddddwwwwwwwwwww..',
+ '.wwwwwwwwwwwwwww..',
+ 'wwwwddwwwwwddwwww.',
+ 'wwwwwdwwwwwdwwwww.',
+ 'wwwwwwwwpwwwwwwww.',
+ 'wwwwwwwwwswwwwwww.',
+ 'oowwwwwswswswwwww.',
+ 'ooowwwwwwwwwwwwww.',
+ 'oooowwwwwwwwwwwww.',
+ 'oooowwwwwwwwwwggw.',
+ 'ooowwwwwwwwwwgmgw.',
+ 'wwwwwwwwwwwwwwggw.',
+ '.wwwwwwwwwwwwwww..',
+ '..wwswwwwwwwsww...',
+ '...sssssssssss....'
+];
+const headbandCatSmall=[
+ '..ddd....oo..',
+ '.dddddddoooo.',
+ '.rrrrrrrrrrr.',
+ 'rrrrrmmgmrrrr',
+ '.ddddwwwwwww.',
+ '.wwwwwwwwwww.',
+ 'wwwdwwwwdwww.',
+ 'wwwwwwpwwwww.',
+ 'wwwwwswswwww.',
+ 'oowwwwwwwwww.',
+ 'ooowwwwwwwww.',
+ 'ooowwwwwwggw.',
+ 'oowwwwwwgmgw.',
+ '.wwwwwwwwggw.',
+ '.wwswwwwsww..',
+ '..ssssssss...'
+];
+const headbandCatColors={w:'#f1e7d5',d:'#252733',r:'#c83d3b',m:'#b6b5a9',g:'#64676b',o:'#d5a565',p:'#e2a2a0',s:'#c1b7a4'};
+function headbandCat(rows,x,ground,t,offset){
+ const count=rows.length,height=count+(Math.sin(t*1.7+offset)>.72?1:0);
+ ellipse(x+rows[0].length/2,ground+1,rows[0].length/2,2,'#21364f',.3);
+ for(let row=0;row<count;row++)for(let col=0;col<rows[row].length;col++){
+  const color=headbandCatColors[rows[row][col]];
+  const top=Math.floor(row*height/count),bottom=Math.floor((row+1)*height/count);
+  if(color)rect(x+col,ground-height+top,1,bottom-top,color);
+ }
+}
+function parkCats(t){sleepingCat(t);headbandCat(headbandCatLarge,339,371,t,.8);headbandCat(headbandCatSmall,360,371,t,1.6);}
 
 function person(p,t){const x=p.x,y=p.y,s=p.size*(.8+(y-315)/90),step=Math.sin(p.walk),swing=step*1.5;
  ellipse(x+2,y+2,3*s,1.2*s,'#527e91',.55);rect(x-s,y-10*s,2*s,2*s,'#f0c8b0');rect(x-1.5*s,y-8*s,3*s,4*s,p.shirt);line(x-s,y-4*s,x-1.2*s+swing,y,C.navy,s);line(x+s,y-4*s,x+1.2*s-swing,y,C.navy,s);line(x-2*s,y-7*s,x-2*s-swing*.5,y-4*s,p.shirt,s);
@@ -334,8 +388,8 @@ function draw(){
  g.drawImage(parkLayer(),0,0);
  g.save();insideClip();inPark=true;nightLights();wheel(time);train(time);carousel(time);
  let catDrawn=false;
- for(const p of people.slice().sort((a,b)=>a.y-b.y)){if(!catDrawn&&p.y>=371){sleepingCat(time);catDrawn=true;}person(p,time);}
- if(!catDrawn)sleepingCat(time);
+ for(const p of people.slice().sort((a,b)=>a.y-b.y)){if(!catDrawn&&p.y>=371){parkCats(time);catDrawn=true;}person(p,time);}
+ if(!catDrawn)parkCats(time);
  balloon(time);signals();inPark=false;g.restore();g.drawImage(cachedFront,0,0);shuttle(time);
 
 
