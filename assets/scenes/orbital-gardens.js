@@ -198,6 +198,40 @@ function carousel(t){
  // Crown and lit spire.
  rect(x-3,y-91,6,20,'#c9b5b3');rect(x-1,y-90,2,19,C.gold);poly([[x-9,y-86],[x,y-100],[x+9,y-86]],'#e7b6b5');ellipse(x,y-85,10,3,C.gold);line(x,y-99,x,y-108,C.white,1);poly([[x+1,y-108],[x+11,y-105+Math.sin(t*2)*1.5],[x+1,y-102]],C.rose);glow(x,y-99,C.gold);
 }
+// Visitor-sized calico, drawn in scene pixels so ship zoom and lighting apply naturally.
+const sleepingCatPixels=[
+ '...d.....oo...........',
+ '..dd....opoo..........',
+ '..doooooopooo....dd...',
+ '.ooooooocooooooddooo..',
+ 'ooooowooooowooddooooo.',
+ 'oowwwwwwooowwddwoooooo',
+ 'wwddwwwddwcwwddwwoooo',
+ 'wpwwwwwwwwcwwwwwwoooo',
+ 'wwwdwwwwwwcwwwwwooooo',
+ '.wwwwwwwwwcwwwwwoooo.',
+ '..wwwwwwwwwwwwwwooo..',
+ '...sssswwwwwwssss....'
+];
+const sleepingCatColors={o:'#e99a45',w:'#f4e9d2',d:'#463b38',p:'#e3aaa0',c:'#8fb9aa',s:'#b6ad99'};
+function sleepingCat(t){
+ const x=313,y=359,breath=Math.sin(t*1.7)>0.72?-1:0;
+ ellipse(x+11,y+12,12,2,'#21364f',.3);
+ for(let row=0;row<sleepingCatPixels.length;row++)for(let col=0;col<sleepingCatPixels[row].length;col++){
+  const color=sleepingCatColors[sleepingCatPixels[row][col]];
+  if(color)rect(x+col,y+row+(row<9?breath:0),1,1,color);
+ }
+ const old=emissive;emissive=true;
+ const ink=lighting==='day'?'#40536a':lighting==='sunset'?'#f7edd5':'#c6e3e9';
+ for(let i=0;i<3;i++){
+  const phase=(t/4+i/3)%1,alpha=Math.sin(phase*Math.PI)*.72;
+  const zx=x+8+Math.round(phase*10),zy=y-3-Math.round(phase*16);
+  // A tiny 3×3 bitmap Z; its position and opacity only use simulation time.
+  for(const [dx,dy] of [[0,0],[1,0],[2,0],[1,1],[0,2],[1,2],[2,2]])rect(zx+dx,zy+dy,1,1,ink,alpha);
+ }
+ emissive=old;
+}
+
 function person(p,t){const x=p.x,y=p.y,s=p.size*(.8+(y-315)/90),step=Math.sin(p.walk),swing=step*1.5;
  ellipse(x+2,y+2,3*s,1.2*s,'#527e91',.55);rect(x-s,y-10*s,2*s,2*s,'#f0c8b0');rect(x-1.5*s,y-8*s,3*s,4*s,p.shirt);line(x-s,y-4*s,x-1.2*s+swing,y,C.navy,s);line(x+s,y-4*s,x+1.2*s-swing,y,C.navy,s);line(x-2*s,y-7*s,x-2*s-swing*.5,y-4*s,p.shirt,s);
 }
@@ -297,7 +331,9 @@ function draw(){
  g.drawImage(cachedHull,0,0);
  g.drawImage(parkLayer(),0,0);
  g.save();insideClip();inPark=true;nightLights();wheel(time);train(time);carousel(time);
- for(const p of people.slice().sort((a,b)=>a.y-b.y))person(p,time);
+ let catDrawn=false;
+ for(const p of people.slice().sort((a,b)=>a.y-b.y)){if(!catDrawn&&p.y>=371){sleepingCat(time);catDrawn=true;}person(p,time);}
+ if(!catDrawn)sleepingCat(time);
  balloon(time);signals();inPark=false;g.restore();g.drawImage(cachedFront,0,0);shuttle(time);
 
 
