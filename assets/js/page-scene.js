@@ -27,6 +27,8 @@
     return Object.fromEntries(controls.map(c => [c.dataset.setting, c.type === 'checkbox' ? c.checked : c.type === 'range' ? +c.value : c.value]));
   }
   function apply() {
+    const speed=root.querySelector('[data-setting="starSpeed"]'),mode=root.querySelector('[data-setting="starMode"]');
+    if(speed){root.querySelector('[data-star-speed-value]').textContent=Number(speed.value).toFixed(2)+'×';speed.disabled=mode.value==='still';}
     pause.textContent = playing ? 'Pause animation' : 'Play animation';
     const background = document.documentElement.dataset.tone === 'light' ? '#e1dbdb' : '#25303b';
     frame.contentWindow?.ASCIIWallpaper?.configure({
@@ -44,6 +46,9 @@
   root.querySelector('[data-action="feed"]')?.addEventListener('click', () => {
     frame.contentWindow?.ASCIIWallpaper?.launch(.3 + Math.random() * .4, .3 + Math.random() * .4);
     status.textContent = 'Food dropped into the pond';
+  });
+  for(const button of root.querySelectorAll('[data-park-action]'))button.addEventListener('click',()=>{
+    frame.contentWindow?.ASCIIWallpaper?.action(button.dataset.parkAction);status.textContent=button.textContent;
   });
   for (const control of controls) control.addEventListener('input', () => { apply(); save(); });
   frame.addEventListener('load', apply);

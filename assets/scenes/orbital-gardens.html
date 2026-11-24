@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'unsafe-inline'"><title>Orbital Gardens</title><style>html,body,#orbital-gardens-preview{margin:0;width:100%;height:100%;overflow:hidden;background:#050b16}canvas{display:block;width:100%;height:100%;image-rendering:pixelated;touch-action:pan-y}.orbital-controls{display:none}</style><script src="orbital-gardens.js" defer></script></head><body><div id="orbital-gardens-preview">
+  <canvas class="cursor-interaction" width="800" height="460" role="img" aria-label="Interactive pixel-art spaceship park. Click the Ferris wheel to reverse it, the coaster or carousel to speed it up, a path to call visitors, or space to launch a shuttle. The same actions are available under Interactions.">An interactive amusement park inside a spaceship.</canvas>
+  <div class="viz-row orbital-controls" role="group" aria-label="Lighting and playback">
+    <button class="btn" type="button" data-lighting="day" aria-pressed="false">Day</button>
+    <button class="btn" type="button" data-lighting="sunset" aria-pressed="true">Sunset</button>
+    <button class="btn" type="button" data-lighting="night" aria-pressed="false">Night</button>
+    <button class="btn" type="button" data-action="play" aria-pressed="false">Pause animation</button>
+  </div>
+  <div class="viz-controls orbital-controls">
+    <label class="form-label">Stars
+      <select class="form-select" data-stars>
+        <option value="still">Still</option>
+        <option value="drift" selected>Drift</option>
+        <option value="warp">Warp trails</option>
+      </select>
+    </label>
+    <label class="form-label">Star speed <output class="tabular-nums" data-star-speed-value>1.00×</output>
+      <input class="form-range" data-star-speed type="range" min="0.25" max="3" step="0.25" value="1" aria-label="Star speed">
+    </label>
+  </div>
+  <div class="orbital-controls"><details><summary>Interactions</summary><div class="viz-row orbital-controls">
+    <button class="btn" type="button" data-interact="wheel">Reverse wheel</button>
+    <button class="btn" type="button" data-interact="coaster">Boost coaster</button>
+    <button class="btn" type="button" data-interact="carousel">Spin carousel</button>
+    <button class="btn" type="button" data-interact="visitors">Call visitors</button>
+    <button class="btn" type="button" data-interact="shuttle">Launch shuttle</button>
+  </div></details></div>
+  <p class="text-small text-muted orbital-controls" role="status" aria-live="polite">Sunset · Park open</p>
+</div>
+</body></html>

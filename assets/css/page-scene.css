@@ -16,3 +16,5 @@
 .page-scene input { accent-color:var(--space-accent);max-width:100%; }
 .page-scene .scene-status { position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%); }
 @media(max-width:600px) { .page-scene .scene-stage { height:290px; } .page-scene button,.page-scene summary { min-height:44px; } .page-scene select { font-size:16px; } }
+
+.page-scene[data-scene="orbital-gardens"] .scene-stage { height:auto;aspect-ratio:800 / 460; }
