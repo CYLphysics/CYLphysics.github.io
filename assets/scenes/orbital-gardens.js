@@ -215,11 +215,13 @@ const sleepingCatPixels=[
 ];
 const sleepingCatColors={o:'#e99a45',w:'#f4e9d2',d:'#463b38',p:'#e3aaa0',c:'#8fb9aa',s:'#b6ad99'};
 function sleepingCat(t){
- const x=313,y=359,breath=Math.sin(t*1.7)>0.72?-1:0;
+ const x=313,y=359,height=12+(Math.sin(t*1.7)>0.72?1:0);
  ellipse(x+11,y+12,12,2,'#21364f',.3);
  for(let row=0;row<sleepingCatPixels.length;row++)for(let col=0;col<sleepingCatPixels[row].length;col++){
   const color=sleepingCatColors[sleepingCatPixels[row][col]];
-  if(color)rect(x+col,y+row+(row<9?breath:0),1,1,color);
+  // Adjacent row boundaries share the same mapping, so breathing cannot open a seam.
+  const top=Math.floor(row*height/12),bottom=Math.floor((row+1)*height/12);
+  if(color)rect(x+col,y+12-height+top,1,bottom-top,color);
  }
  const old=emissive;emissive=true;
  const ink=lighting==='day'?'#40536a':lighting==='sunset'?'#f7edd5':'#c6e3e9';
