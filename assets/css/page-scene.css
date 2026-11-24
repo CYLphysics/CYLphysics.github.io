@@ -18,3 +18,10 @@
 @media(max-width:600px) { .page-scene .scene-stage { height:290px; } .page-scene button,.page-scene summary { min-height:44px; } .page-scene select { font-size:16px; } }
 
 .page-scene[data-scene="orbital-gardens"] .scene-stage { height:auto;aspect-ratio:800 / 460; }
+.page-scene .scene-color-row { display:flex;gap:12px;align-items:end; }
+.page-scene .scene-color-row label { min-width:0; }
+.page-scene .scene-color-row label:last-child { flex:1; }
+.page-scene input[type="color"] { width:48px;height:38px;padding:2px;background:var(--space-bg);border:1px solid var(--space-line); }
+.page-scene input[type="text"] { box-sizing:border-box;width:100%;min-height:38px;padding:6px;font:inherit;color:var(--space-ink);background:var(--space-bg);border:1px solid var(--space-line);border-radius:3px; }
+.page-scene .scene-settings small { color:var(--space-muted);line-height:1.5; }
+@media(max-width:600px) { .page-scene input[type="text"] { font-size:16px; } }

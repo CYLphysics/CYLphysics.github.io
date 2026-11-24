@@ -6,8 +6,33 @@ const canvas=root.querySelector('canvas'),display=canvas.getContext('2d',{alpha:
 const button=root.querySelector('[data-action="play"]'),status=root.querySelector('[role=status]');
 const lightingButtons=[...root.querySelectorAll('[data-lighting]')];
 const starSelect=root.querySelector('[data-stars]'),starSlider=root.querySelector('[data-star-speed]'),starValue=root.querySelector('[data-star-speed-value]');
-let starMode='drift',starSpeed=3,starTravel=0,fps=20,clicks=true,outerBackground='#050b16';
+let starMode='drift',starSpeed=3,starTravel=0,fps=20,clicks=true,outerBackground='#25303b',starInk='#c6e3e9',parkHull=0,parkScale=100;
 const W=800,H=460,TAU=Math.PI*2;
+// Same palette ramps and orange panel masks as Android OrbitalStyle.
+const ShipStyle={
+ names:['Original steel','Silver titanium','Copper bronze','Jade green','Nebula violet','Crimson red','Arctic blue','Lunar white · Orange trim','Pearl white · Orange panels','Brushed silver · Orange stripe','Titanium silver · Rescue orange'],
+ tint(argb,theme,x,y,front){
+  if(theme<=0||theme>=11||(argb>>>24)===0)return argb>>>0;
+  const r=argb>>>16&255,g=argb>>>8&255,b=argb&255,l=.2126*r+.7152*g+.0722*b;
+  if(r>b*1.2&&g>b*1.15)return argb>>>0;
+  const ramp=(lo,hi,t)=>{const mix=shift=>Math.round((lo>>>shift&255)+((hi>>>shift&255)-(lo>>>shift&255))*t);return ((argb&0xff000000)|(mix(16)<<16)|(mix(8)<<8)|mix(0))>>>0;};
+  if(theme>=7){
+   const v=theme-7,shadow=[0x25313e,0x373934,0x222b36,0x27323b],panel=[0xd5dfe8,0xece5d5,0xa9b8c7,0xbfc9ce],highlight=[0xf7fbff,0xfffbef,0xe2edf7,0xecf2f4];
+   const roof=x>310&&x<735&&Math.abs(y-(127-.117*x))<(v===0?2:4);
+   const belt=x>330&&x<730&&Math.abs(y-(420-.045*(x-300)))<(v===2?5:2);
+   const shoulder=x>70&&x<151&&Math.abs(y-(194-.45*x))<(v===0?3:v===2?6:9);
+   const orangePanel=v===1&&x>93&&x<155&&y>234&&y<279;
+   const rescue=v===3&&((x>164&&x<180&&y>173&&y<350)||(x>235&&x<253&&y>350&&y<379));
+   if(l>=24&&(front?belt||rescue:roof||shoulder||orangePanel||rescue))return ramp(0x74371d,[0xf38335,0xe67b2b,0xf39a43,0xf06c29][v],Math.min(1,.38+l/110));
+   if(l<24)return ramp(0x070d16,shadow[v],l/24);
+   if(l<65)return ramp(shadow[v],panel[v],Math.pow((l-24)/41,.45));
+   return ramp(panel[v],highlight[v],Math.min(1,(l-65)/150));
+  }
+  const mid=[0x304963,0x65717c,0x916044,0x367d6c,0x71518f,0x91434f,0x3b849c],light=[0xc6e3e9,0xe4e9ee,0xffd8ad,0xbce8c7,0xe4cbff,0xffc7bc,0xc0f4ff];
+  return l<65?ramp(0x050914,mid[theme],Math.pow(l/65,1.12)):ramp(mid[theme],light[theme],Math.min(1,(l-65)/150));
+ }
+};
+
 // A deliberately limited art palette; interface controls inherit the surrounding theme.
 const C={void:'#050b16',deep:'#091322',hull:'#111e30',panel:'#182a42',edge:'#304963',steel:'#527185',rim:'#7fa5b7',ice:'#c6e3e9',white:'#f7edd5',gold:'#ffd389',amber:'#e6a061',rose:'#e79496',red:'#ac596c',cyan:'#78d4e3',blue:'#488ba8',water:'#286e8c',navy:'#21364f',purple:'#8e85ae'};
 let lighting='sunset',inPark=false,emissive=false;
@@ -27,7 +52,7 @@ let coasterBoostUntil=0,carouselBoostUntil=0,interactions=0,beacons=[],shuttles=
 let seed=982451653;
 function rnd(){seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;}
 const scene=document.createElement('canvas');scene.width=W;scene.height=H;
-let g=scene.getContext('2d',{alpha:false});g.imageSmoothingEnabled=false;
+let g=scene.getContext('2d',{alpha:true});g.imageSmoothingEnabled=false;
 function rect(x,y,w,h,c,a=1){if(w<=0||h<=0)return;g.globalAlpha=a;g.fillStyle=shade(c);g.fillRect(Math.round(x),Math.round(y),Math.ceil(w),Math.ceil(h));g.globalAlpha=1;}
 function line(x0,y0,x1,y1,c,width=1,a=1){x0=Math.round(x0);y0=Math.round(y0);x1=Math.round(x1);y1=Math.round(y1);let dx=Math.abs(x1-x0),sx=x0<x1?1:-1,dy=-Math.abs(y1-y0),sy=y0<y1?1:-1,err=dx+dy;for(let n=0;n<2000;n++){rect(x0-width/2,y0-width/2,width,width,c,a);if(x0===x1&&y0===y1)break;let e=2*err;if(e>=dy){err+=dy;x0+=sx;}if(e<=dx){err+=dx;y0+=sy;}}}
 function poly(points,c,a=1){let lo=Math.ceil(Math.min(...points.map(p=>p[1]))),hi=Math.floor(Math.max(...points.map(p=>p[1])));for(let y=lo;y<=hi;y++){const hits=[];for(let i=0,j=points.length-1;i<points.length;j=i++){const p=points[i],q=points[j];if((p[1]<=y&&q[1]>y)||(q[1]<=y&&p[1]>y))hits.push(p[0]+(y-p[1])/(q[1]-p[1])*(q[0]-p[0]));}hits.sort((a,b)=>a-b);for(let i=0;i+1<hits.length;i+=2)rect(Math.ceil(hits[i]),y,Math.floor(hits[i+1])-Math.ceil(hits[i])+1,1,c,a);}}
@@ -231,48 +256,63 @@ function shuttle(t,x=64+(t*4.6)%120,y=397+Math.sin(t*.24)*5){
 }
 // Cache complex stationary geometry; animate only the rides, visitors and lighting.
 function layer(draw){const c=document.createElement('canvas');c.width=W;c.height=H;const previous=g;g=c.getContext('2d');g.imageSmoothingEnabled=false;draw();g=previous;return c;}
-const background=layer(sky),spaceForeground=layer(()=>{planet();shellBack();});
+layer(sky); // Consume the original random sequence before building the hull.
+const planetLayer=layer(planet),hullLayer=layer(shellBack),frontLayer=layer(()=>shellFront(0));
+let cachedHull=hullLayer,cachedFront=frontLayer,cachedTheme=0;
+function recolor(original,front){
+ const c=document.createElement('canvas');c.width=W;c.height=H;const ctx=c.getContext('2d');ctx.drawImage(original,0,0);
+ const pixels=ctx.getImageData(0,0,W,H),d=pixels.data;
+ for(let i=0;i<d.length;i+=4){if(!d[i+3])continue;const argb=((d[i+3]<<24)|(d[i]<<16)|(d[i+1]<<8)|d[i+2])>>>0;
+  const color=ShipStyle.tint(argb,parkHull,(i/4)%W,Math.floor(i/4/W),front);d[i]=color>>>16&255;d[i+1]=color>>>8&255;d[i+2]=color&255;
+ }ctx.putImageData(pixels,0,0);return c;
+}
+function hullLayers(){if(cachedTheme!==parkHull){cachedHull=parkHull?recolor(hullLayer,false):hullLayer;cachedFront=parkHull?recolor(frontLayer,true):frontLayer;cachedTheme=parkHull;}}
+function shipScale(width,height){return Math.min(width/W,height/H)*parkScale/100;}
+function setUniverse(color){outerBackground=color.toLowerCase();const rgb=[1,3,5].map(i=>parseInt(color.slice(i,i+2),16)/255).map(v=>v<=.04045?v/12.92:Math.pow((v+.055)/1.055,2.4));starInk=rgb[0]*.2126+rgb[1]*.7152+rgb[2]*.0722>.179?'#19232d':'#c6e3e9';}
+
 const parks={},parkSeed=seed;
 function parkLayer(){
  if(!parks[lighting]){const oldSeed=seed;seed=parkSeed;inPark=true;parks[lighting]=layer(()=>{g.save();insideClip();interiorBack();gardenFurniture();g.restore();});inPark=false;seed=oldSeed;}
  return parks[lighting];
 }
 let time=0,last=0,drawn=0,raf=0,visible=true,frames=0;
-function starfield(){
+function starfield(width=W,height=H){
  const wrap=(v,n)=>((v%n)+n)%n;
  for(const s of stars){
   const depth=.25+.75*(s.p/TAU),travel=starTravel*depth;
-  const x=wrap(s.x-travel+120,W+240)-120,y=wrap(s.y+travel*.10,H);
+  const x=wrap(s.x/W*width-travel+120,width+240)-120,y=wrap(s.y/H*height+travel*.10,height);
   const alpha=.25+depth*.38;
   if(starMode==='warp'){
    const length=(14+depth*48)*Math.sqrt(starSpeed);
    // Short segmented tails stay crisp and never join opposite screen edges.
-   for(let j=3;j>=0;j--){const a=j/4,b=(j+1)/4;line(x+length*a,y-length*a*.10,x+length*b,y-length*b*.10,C.ice,1,alpha*(1-a)*.65);}
+   for(let j=3;j>=0;j--){const a=j/4,b=(j+1)/4;line(x+length*a,y-length*a*.10,x+length*b,y-length*b*.10,starInk,1,alpha*(1-a)*.65);}
   }
-  rect(x,y,s.size,s.size,C.ice,alpha);
+  rect(x,y,s.size,s.size,starInk,alpha);
  }
 }
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');let playing=!reduced.matches;
 function draw(){
- g=scene.getContext('2d');g.clearRect(0,0,W,H);g.fillStyle=outerBackground;g.fillRect(0,0,W,H);
+ g=scene.getContext('2d');g.clearRect(0,0,W,H);hullLayers();
  // Draw space first, so stars and trails are occluded by the planet and hull.
- starfield();g.drawImage(spaceForeground,0,0);
+ g.drawImage(cachedHull,0,0);
  g.drawImage(parkLayer(),0,0);
  g.save();insideClip();inPark=true;nightLights();wheel(time);train(time);carousel(time);
  for(const p of people.slice().sort((a,b)=>a.y-b.y))person(p,time);
- balloon(time);signals();inPark=false;g.restore();shellFront(time);shuttle(time);
+ balloon(time);signals();inPark=false;g.restore();g.drawImage(cachedFront,0,0);shuttle(time);
 
 
  // A 640-pixel raster gives the image its crisp, tangible pixel scale at desktop sizes.
  display.imageSmoothingEnabled=false;display.fillStyle=outerBackground;display.fillRect(0,0,canvas.width,canvas.height);
- const scale=Math.min(canvas.width/W,canvas.height/H),ox=(canvas.width-W*scale)/2,oy=(canvas.height-H*scale)/2;
- // Continue the moving starfield through the letterbox area on tall displays.
- for(const s of stars){const d=.25+.75*s.p/TAU,x=((s.x/W*canvas.width-starTravel*d*scale)%(canvas.width+120)+canvas.width+120)%(canvas.width+120)-60,y=((s.y/H*canvas.height+starTravel*d*.1*scale)%canvas.height+canvas.height)%canvas.height;
- display.fillStyle='#7a93a8';display.fillRect(x,y,starMode==='warp'?(14+d*48)*Math.sqrt(starSpeed)*scale:1,1);}
+ const base=Math.min(canvas.width/W,canvas.height/H),scale=shipScale(canvas.width,canvas.height),ox=(canvas.width-W*scale)/2,oy=(canvas.height-H*scale)/2;
+ // A single starfield spans the full viewport and is independent of ship zoom.
+ const oldG=g;g=display;display.save();display.scale(base,base);starfield(canvas.width/base,canvas.height/base);display.restore();
+ display.drawImage(planetLayer,(canvas.width-W*base)/2,(canvas.height-H*base)/2,W*base,H*base);
  display.drawImage(scene,ox,oy,W*scale,H*scale);
- const oldG=g;g=display;display.save();display.translate(ox,oy);display.scale(scale,scale);
+ display.save();display.translate(ox,oy);display.scale(scale,scale);
  for(const ship of shuttles){const age=time-ship.born;shuttle(time,ship.x-age*32,ship.y+Math.sin(age*.65)*4);}
  display.restore();g=oldG;
+ canvas.dataset.parkHull=String(parkHull);canvas.dataset.parkScale=String(parkScale);canvas.dataset.background=outerBackground;
+
  canvas.dataset.frames=String(++frames);canvas.dataset.time=time.toFixed(3);canvas.dataset.lighting=lighting;canvas.dataset.interactions=String(interactions);canvas.dataset.wheelDirection=String(wheelDirection);canvas.dataset.shuttles=String(shuttles.length);canvas.dataset.visitorTargets=String(people.filter(p=>p.target).length);canvas.dataset.coasterBoost=String(time<coasterBoostUntil);canvas.dataset.carouselBoost=String(time<carouselBoostUntil);
  canvas.dataset.starMode=starMode;canvas.dataset.starSpeed=String(starSpeed);canvas.dataset.starTravel=starTravel.toFixed(3);
 }
@@ -316,7 +356,7 @@ canvas.addEventListener('pointerup',e=>{
  const r=canvas.getBoundingClientRect();hit((e.clientX-r.left)/r.width,(e.clientY-r.top)/r.height);
 });
 function hit(nx,ny){
- const r=canvas.getBoundingClientRect(),scale=Math.min(r.width/W,r.height/H);
+ const r=canvas.getBoundingClientRect(),scale=shipScale(r.width,r.height);
  const x=(nx*r.width-(r.width-W*scale)/2)/scale,y=(ny*r.height-(r.height-H*scale)/2)/scale;
  if(!contains(x,y,aperture)){interact('shuttle',x,y);return;}
  if(Math.hypot(x-652,y-204)<94){interact('wheel');return;}
@@ -341,13 +381,15 @@ window.ASCIIWallpaper={
   if(['still','drift','warp'].includes(s.starMode))starMode=s.starMode;
   if(Number.isFinite(s.starSpeed))starSpeed=Math.max(.25,Math.min(3,s.starSpeed));
   if(Number.isFinite(s.parkStarSpeed))starSpeed=Math.max(.25,Math.min(3,s.parkStarSpeed/100));
-  if(/^#[0-9a-f]{6}$/i.test(s.background||''))outerBackground=s.background;
+  if(Number.isFinite(s.parkScale))parkScale=Math.max(50,Math.min(150,s.parkScale));
+  if(s.parkHull!==undefined&&Number.isInteger(Number(s.parkHull)))parkHull=Math.max(0,Math.min(10,Number(s.parkHull)));
+  if(/^#[0-9a-f]{6}$/i.test(s.background||''))setUniverse(s.background);
   if(typeof s.paused==='boolean')playing=!s.paused;
   clicks=s.desktopClicks!==false;fps=s.fps===30?30:20;sync();
  },
  launch(x=.18,y=.32){hit(x,y);},
  action(name){interact(name);},
- state(){return {scene:'orbital-gardens',playing,lighting,starMode,starSpeed,wheelDirection,time,frames,interactions,shuttles:shuttles.length};}
+ state(){return {scene:'orbital-gardens',playing,lighting,parkHull,parkScale,background:outerBackground,starMode,starSpeed,wheelDirection,time,frames,interactions,shuttles:shuttles.length};}
 };
 restore(null,true);resize();
 })();

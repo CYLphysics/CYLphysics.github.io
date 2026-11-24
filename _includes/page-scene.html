@@ -18,6 +18,13 @@
     {% endif %}
     <details><summary>Appearance</summary><div class="scene-settings">
       {% if page.ascii_scene == 'orbital-gardens' %}
+      <label>Spaceship color<select data-setting="parkHull"><option value="0">Original steel</option><option value="1">Silver titanium</option><option value="2">Copper bronze</option><option value="3">Jade green</option><option value="4">Nebula violet</option><option value="5">Crimson red</option><option value="6">Arctic blue</option><option value="7">Lunar white · Orange trim</option><option value="8">Pearl white · Orange panels</option><option value="9">Brushed silver · Orange stripe</option><option value="10">Titanium silver · Rescue orange</option></select></label>
+      <label>Spaceship size <output data-park-scale-value>100%</output><input aria-label="Spaceship size" data-setting="parkScale" type="range" min="50" max="150" step="1" value="100"></label>
+      <small>100% fits the full ship. Larger sizes may crop edges.</small>
+      <label>Universe background<select data-setting="universePreset">
+        <option value="page">Follow page theme</option><option value="#050b16">Deep space</option><option value="#000000">Black</option><option value="#25303b">Slate</option><option value="#10283e">Deep ocean</option><option value="#e1dbdb">Light gray</option><option value="#ffffff">White</option><option value="#f5efdf">Warm sand</option><option value="#ebe3f5">Lavender</option><option value="custom">Custom color</option>
+      </select></label>
+      <div class="scene-color-row"><label>Pick color<input type="color" data-setting="parkBackground" value="#25303b"></label><label>Hex color<input type="text" data-universe-hex value="#25303b" maxlength="7" pattern="#?[0-9a-fA-F]{6}" spellcheck="false" aria-label="Universe hex color"></label></div>
       <label>Park lighting<select data-setting="parkLighting"><option value="day">Day</option><option value="sunset" selected>Sunset</option><option value="night">Night</option></select></label>
       <label>Stars<select data-setting="starMode"><option value="still">Still</option><option value="drift" selected>Drift</option><option value="warp">Warp trails</option></select></label>
       <label>Star speed <output data-star-speed-value>3.00×</output><input aria-label="Star speed" data-setting="starSpeed" type="range" min="0.25" max="3" step="0.25" value="3"></label>
